@@ -1,18 +1,33 @@
 # Kannada Digital Library
 
-Structured open-source digital preservation project for classical Kannada literature.
+## Phase 3 — Platform Engineering Foundation
 
-## Book 1
-**ಸರ್ವಜ್ಞ ಸಮಗ್ರ ತ್ರಿಪದಿಗಳು — ಮೂಲ ಕನ್ನಡ • ಭಾವಾರ್ಥ • ಜೀವನ ಸಂದೇಶ**
+Book 1: **ಸರ್ವಜ್ಞ ಸಮಗ್ರ ತ್ರಿಪದಿಗಳು**
 
-JSON is the source of truth. Kannada is primary for v1.
+The project is data-first: JSON is the canonical source. The platform can run with verified content or demo records; demo content is clearly marked.
 
-### Local setup
-Python 3.10+:
+### Architecture
+- `data/` canonical content
+- `books/` publishing outputs
+- `scripts/` validation/build automation
+- `website/` React/Vite reader/search foundation
+- `admin/` editor foundation
+- `docs/` standards
+
+### Validate
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 python scripts/validate_all.py
+python scripts/smoke_test.py
 python scripts/generate_all.py
 ```
 
-Original/source text must only be added after source and rights verification.
+### Website
+```bash
+cd website
+npm install
+npm run dev
+npm run build
+```
+
+No real Sarvajna source text is fabricated in this repository.

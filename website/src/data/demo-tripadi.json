@@ -1,0 +1,45 @@
+{
+  "id": "SAR-DEMO-0001",
+  "author": "ಸರ್ವಜ್ಞ",
+  "work": "ಸರ್ವಜ್ಞ ತ್ರಿಪದಿಗಳು",
+  "tripadi_number": 999999,
+  "original": "[DEMO — verified source text will be added later]",
+  "padartha": "",
+  "bhavartha": "[DEMO — editorial bhavartha placeholder]",
+  "life_message": "[DEMO — life message placeholder]",
+  "category": "ನೀತಿ",
+  "keywords": [
+    "demo",
+    "placeholder"
+  ],
+  "source": {
+    "title": "DEMO ONLY",
+    "publisher": "",
+    "year": null,
+    "locator": "",
+    "url": null,
+    "verified": false,
+    "notes": "This record is for UI smoke testing only; never publish."
+  },
+  "rights": {
+    "status": "needs_review",
+    "license": null,
+    "permission_reference": null
+  },
+  "youtube": {
+    "title": "Demo only",
+    "hook": "Demo only",
+    "script": "Demo only",
+    "description": "Demo only",
+    "tags": []
+  },
+  "instagram": {
+    "caption": "Demo only",
+    "hashtags": [],
+    "alt_text": "Demo only"
+  },
+  "review_status": "draft",
+  "version": "0.0.0",
+  "created_at": "",
+  "updated_at": ""
+}

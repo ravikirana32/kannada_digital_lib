@@ -1,7 +1,8 @@
 import subprocess,sys
 from pathlib import Path
 R=Path(__file__).resolve().parents[1]
-for s in ["validate_all.py","build_book.py","build_docx.py"]:
+for s in ["validate_all.py","build_book.py","build_docx.py","build_social.py"]:
     subprocess.run([sys.executable,str(R/"scripts"/s)],check=True)
-print("Core generation complete.")
-print("PDF requires NotoSansKannada-Regular.ttf; EPUB can be run separately.")
+print("Core generation completed.")
+print("PDF: python scripts/build_pdf.py (requires Kannada TTF)")
+print("EPUB: python scripts/build_epub.py")
