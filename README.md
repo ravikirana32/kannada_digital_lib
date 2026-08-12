@@ -1,15 +1,18 @@
 # Kannada Digital Library
 
-Open-source project to preserve and present classical Kannada literature in structured digital formats.
+Structured open-source digital preservation project for classical Kannada literature.
 
 ## Book 1
-- Sarvajna Tripadigalu
+**ಸರ್ವಜ್ಞ ಸಮಗ್ರ ತ್ರಿಪದಿಗಳು — ಮೂಲ ಕನ್ನಡ • ಭಾವಾರ್ಥ • ಜೀವನ ಸಂದೇಶ**
 
-## Outputs
-- JSON
-- Markdown
-- PDF
-- DOCX
-- EPUB
-- Website
-- Mobile App
+JSON is the source of truth. Kannada is primary for v1.
+
+### Local setup
+Python 3.10+:
+```bash
+pip install -r requirements.txt
+python scripts/validate_all.py
+python scripts/generate_all.py
+```
+
+Original/source text must only be added after source and rights verification.

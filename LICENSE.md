@@ -1,5 +1,6 @@
-Recommended:
-- Code: MIT License
-- Original documentation authored in this project: CC BY-SA 4.0
+# Licensing policy
 
-Do not include copyrighted source editions without permission.
+Code: MIT License (recommended).
+Project-authored documentation/editorial content: CC BY-SA 4.0 (recommended).
+
+Do not commit copyrighted source-edition text unless its license/permission permits redistribution.

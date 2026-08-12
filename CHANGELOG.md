@@ -1,4 +1,4 @@
 # Changelog
 
-## v0.1.0
-- Repository initialized.
+## 0.2.0
+- Added production-oriented schema, validation, generation scripts and CI.

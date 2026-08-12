@@ -1,6 +1,4 @@
 # Contributing
 
-1. Follow STYLE_GUIDE.md
-2. Use UTF-8 Unicode Kannada.
-3. Every content change requires review.
-4. Keep metadata complete.
+UTF-8 only. Never invent source text. Record source and rights information.
+Content lifecycle: draft -> source_verified -> editorial_review -> approved -> published.

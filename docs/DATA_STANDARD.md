@@ -1,12 +1,5 @@
-# Tripadi Schema
+# Data Standard v1.0
 
-id
-canonical_id
-original
-padartha
-bhavartha
-life_message
-category
-keywords
-references
-review_status
+One JSON document per tripadi. Required: id, author, work, tripadi_number, original, bhavartha, category, keywords, source, rights, review_status, version.
+
+`original` is source text; `bhavartha`, life_message and social-video copy are project-authored.

@@ -1,12 +1,149 @@
 {
-  "id":"",
-  "canonical_id":"SAR-0001",
-  "original":"",
-  "padartha":"",
-  "bhavartha":"",
-  "life_message":"",
-  "category":"",
-  "keywords":[],
-  "references":[],
-  "review_status":"draft"
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sarvajna Tripadi",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "author",
+    "work",
+    "tripadi_number",
+    "original",
+    "bhavartha",
+    "category",
+    "keywords",
+    "source",
+    "rights",
+    "review_status",
+    "version"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^SAR-[0-9]{4,}$"
+    },
+    "author": {
+      "const": "ಸರ್ವಜ್ಞ"
+    },
+    "work": {
+      "const": "ಸರ್ವಜ್ಞ ತ್ರಿಪದಿಗಳು"
+    },
+    "tripadi_number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "original": {
+      "type": "string"
+    },
+    "padartha": {
+      "type": "string"
+    },
+    "bhavartha": {
+      "type": "string"
+    },
+    "life_message": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "keywords": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "locator",
+        "verified"
+      ],
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "publisher": {
+          "type": "string"
+        },
+        "year": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "locator": {
+          "type": "string"
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "verified": {
+          "type": "boolean"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "public_domain",
+            "permission_granted",
+            "user_provided",
+            "needs_review"
+          ]
+        },
+        "license": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "permission_reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "youtube": {
+      "type": "object"
+    },
+    "instagram": {
+      "type": "object"
+    },
+    "review_status": {
+      "enum": [
+        "draft",
+        "source_verified",
+        "editorial_review",
+        "approved",
+        "published"
+      ]
+    },
+    "version": {
+      "type": "string"
+    },
+    "created_at": {
+      "type": "string"
+    },
+    "updated_at": {
+      "type": "string"
+    }
+  }
 }

@@ -1,9 +1,10 @@
 # Roadmap
 
-Sprint 1 - Foundation
-Sprint 2 - Data Model
-Sprint 3 - Content
-Sprint 4 - Publishing
-Sprint 5 - Website
-Sprint 6 - App
-Sprint 7 - AI
+1. Foundation
+2. Data model
+3. Source verification
+4. First approved content
+5. PDF/DOCX/EPUB publishing
+6. Website
+7. Mobile app
+8. AI search

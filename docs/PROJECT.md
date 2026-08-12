@@ -1,9 +1,5 @@
-# Project Vision
+# Project
 
-Mission:
-Digitally preserve classical Kannada wisdom in structured, searchable formats.
+Mission: preserve classical Kannada wisdom in structured, searchable digital formats.
 
-Phase 1:
-- Repository
-- Data model
-- Sarvajna study edition
+Book 1: ಸರ್ವಜ್ಞ ಸಮಗ್ರ ತ್ರಿಪದಿಗಳು.

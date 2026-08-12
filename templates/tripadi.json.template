@@ -1,0 +1,42 @@
+{
+  "id": "SAR-0001",
+  "author": "ಸರ್ವಜ್ಞ",
+  "work": "ಸರ್ವಜ್ಞ ತ್ರಿಪದಿಗಳು",
+  "tripadi_number": 1,
+  "original": "",
+  "padartha": "",
+  "bhavartha": "",
+  "life_message": "",
+  "category": "",
+  "keywords": [],
+  "source": {
+    "title": "",
+    "publisher": "",
+    "year": null,
+    "locator": "",
+    "url": null,
+    "verified": false,
+    "notes": "Verify source before adding original text."
+  },
+  "rights": {
+    "status": "needs_review",
+    "license": null,
+    "permission_reference": null
+  },
+  "youtube": {
+    "title": "",
+    "hook": "",
+    "script": "",
+    "description": "",
+    "tags": []
+  },
+  "instagram": {
+    "caption": "",
+    "hashtags": [],
+    "alt_text": ""
+  },
+  "review_status": "draft",
+  "version": "1.0.0",
+  "created_at": "",
+  "updated_at": ""
+}
