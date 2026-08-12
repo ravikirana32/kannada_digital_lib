@@ -100,6 +100,7 @@
       ],
       "properties": {
         "status": {
+          "type": "string",
           "enum": [
             "public_domain",
             "permission_granted",
@@ -164,6 +165,7 @@
       }
     },
     "review_status": {
+      "type": "string",
       "enum": [
         "draft",
         "source_verified",

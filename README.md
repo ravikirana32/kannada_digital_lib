@@ -1,20 +1,31 @@
 # Kannada Digital Library
 
-## Phase 3 — Platform Engineering Foundation
+**ಸರ್ವಜ್ಞ ಸಮಗ್ರ ತ್ರಿಪದಿಗಳು — ಮೂಲ ಕನ್ನಡ • ಭಾವಾರ್ಥ • ಜೀವನ ಸಂದೇಶ**
 
-Book 1: **ಸರ್ವಜ್ಞ ಸಮಗ್ರ ತ್ರಿಪದಿಗಳು**
+A data-first, open-source foundation for preserving and publishing classical Kannada wisdom.
 
-The project is data-first: JSON is the canonical source. The platform can run with verified content or demo records; demo content is clearly marked.
+## Current milestone
 
-### Architecture
-- `data/` canonical content
-- `books/` publishing outputs
-- `scripts/` validation/build automation
-- `website/` React/Vite reader/search foundation
-- `admin/` editor foundation
-- `docs/` standards
+**Phase 1 + Phase 2 + Phase 3 complete foundation**
 
-### Validate
+- Repository/documentation foundation
+- Structured JSON data model
+- Validation and publishing pipeline
+- PDF/DOCX/EPUB/Markdown generation
+- React/Vite reader
+- Search and category filtering
+- Tripadi detail view
+- Admin/editor foundation
+- Review workflow model
+- YouTube/Instagram export
+- GitHub CI
+
+## Core rule
+
+JSON is the canonical source. Original/source text must never be invented or reconstructed from memory. Source and rights metadata are mandatory before publication.
+
+## Quick validation
+
 ```bash
 python -m pip install -r requirements.txt
 python scripts/validate_all.py
@@ -22,12 +33,33 @@ python scripts/smoke_test.py
 python scripts/generate_all.py
 ```
 
-### Website
+## Website
+
 ```bash
 cd website
 npm install
-npm run dev
 npm run build
+npm run dev
 ```
 
-No real Sarvajna source text is fabricated in this repository.
+## PDF
+
+Place a Unicode Kannada font at:
+
+`books/sarvajna/assets/NotoSansKannada-Regular.ttf`
+
+Then:
+
+```bash
+python scripts/build_pdf.py
+```
+
+## EPUB
+
+```bash
+python scripts/build_epub.py
+```
+
+## Content status
+
+The repository contains no fabricated Sarvajna source text. The website uses a clearly marked demo record for UI testing only.

@@ -1,10 +1,14 @@
 # Validation
 
-## Backend/data
+## Data
 ```bash
 python -m pip install -r requirements.txt
 python scripts/validate_all.py
 python scripts/smoke_test.py
+```
+
+## Generate
+```bash
 python scripts/generate_all.py
 ```
 
@@ -16,10 +20,7 @@ npm run build
 ```
 
 ## PDF
-Add `NotoSansKannada-Regular.ttf` to:
-`books/sarvajna/assets/`
-
-Then:
+Add `NotoSansKannada-Regular.ttf` to `books/sarvajna/assets/`, then:
 ```bash
 python scripts/build_pdf.py
 ```

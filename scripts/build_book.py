@@ -15,4 +15,4 @@ for d in rows:
               f"**ವರ್ಗ:** {d['category']}","",f"**ಮುಖ್ಯ ಪದಗಳು:** {', '.join(d['keywords'])}","",
               f"**ಮೂಲ:** {d['source']['title']} — {d['source']['locator']}","", "---",""]
 OUT.write_text("\n".join(lines),encoding="utf-8")
-print("Book markdown generated:",OUT)
+print("Markdown book:",OUT)

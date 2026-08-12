@@ -19,7 +19,7 @@
     "locator": "",
     "url": null,
     "verified": false,
-    "notes": "This record is for UI smoke testing only; never publish."
+    "notes": "UI smoke-test record only. Never publish."
   },
   "rights": {
     "status": "needs_review",

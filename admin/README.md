@@ -1,11 +1,19 @@
-# Admin Foundation
+# Admin Portal Foundation
 
-Phase 3 admin contract:
-- List entries
-- Create/edit draft
+The Phase 3 repository includes the admin contract and workflow. The web reader is the public UI; a production admin UI can be added behind authentication.
+
+## Screens
+- Dashboard
+- Tripadi list
+- Create/Edit
 - Source verification
 - Editorial review
-- Approve/publish
-- Export JSON
+- Approval
+- Categories
+- Export
 
-The production admin UI will be connected to the same schema in a later Phase 3 sprint.
+## Workflow
+draft → source_verified → editorial_review → approved → published
+
+## Security
+Do not expose an unauthenticated production editor. Authentication and role-based access belong in the production backend phase.
