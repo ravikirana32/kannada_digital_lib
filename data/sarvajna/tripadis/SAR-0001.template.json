@@ -16,7 +16,8 @@
     "locator": "",
     "url": null,
     "verified": false,
-    "notes": "Verify source before adding original text."
+    "notes": "Verify source before adding original text.",
+    "source_id": ""
   },
   "rights": {
     "status": "needs_review",

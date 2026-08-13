@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {
+      "source_id": "SRC-001",
+      "title": "Source candidate — to be verified",
+      "author": "ಸರ್ವಜ್ಞ",
+      "publisher": "",
+      "edition": "",
+      "year": null,
+      "source_type": "book",
+      "url": null,
+      "locator_format": "page/section",
+      "rights_status": "unknown",
+      "rights_notes": "Placeholder only. Replace with a verified permitted/public-domain source.",
+      "verification_status": "discovered",
+      "reliability_notes": "No textual content is derived from this placeholder.",
+      "added_by": "",
+      "added_at": ""
+    }
+  ]
+}

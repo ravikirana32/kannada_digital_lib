@@ -16,4 +16,5 @@ if missing:
     for x in missing: print(" -",x)
     raise SystemExit(1)
 subprocess.run([sys.executable,str(ROOT/"scripts/validate_all.py")],check=True)
+subprocess.run([sys.executable,str(ROOT/"scripts/phase4_check.py")],check=True)
 print("Foundation smoke test passed.")

@@ -13,3 +13,8 @@
 
 ## 0.1.0
 - Initial repository foundation.
+
+## 0.4.0
+- Added source registry and Phase 4 review pipeline.
+- Added source/rights/review schemas.
+- Added batch queue, duplicate check, review report and publish-candidate tools.

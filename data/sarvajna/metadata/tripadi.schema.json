@@ -58,6 +58,7 @@
       "type": "object",
       "additionalProperties": false,
       "required": [
+        "source_id",
         "title",
         "locator",
         "verified"
@@ -88,6 +89,9 @@
           "type": "boolean"
         },
         "notes": {
+          "type": "string"
+        },
+        "source_id": {
           "type": "string"
         }
       }

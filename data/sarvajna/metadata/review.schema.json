@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sarvajna Review Record",
+  "type": "object",
+  "required": ["tripadi_id", "source_review", "editorial_review", "final_decision"],
+  "properties": {
+    "tripadi_id": {"type": "string", "pattern": "^SAR-[0-9]{4,}$"},
+    "source_review": {"type": "object", "required": ["reviewer", "decision", "source_locator_checked", "rights_checked"], "properties": {"reviewer": {"type": "string"}, "date": {"type": "string"}, "decision": {"enum": ["pending", "pass", "fail"]}, "source_locator_checked": {"type": "boolean"}, "rights_checked": {"type": "boolean"}, "notes": {"type": "string"}}},
+    "editorial_review": {"type": "object", "required": ["reviewer", "decision"], "properties": {"reviewer": {"type": "string"}, "date": {"type": "string"}, "decision": {"enum": ["pending", "pass", "fail"]}, "notes": {"type": "string"}}},
+    "final_decision": {"enum": ["pending", "approved", "rejected"]}
+  }
+}

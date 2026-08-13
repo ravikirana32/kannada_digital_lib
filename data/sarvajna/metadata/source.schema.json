@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sarvajna Source Registry",
+  "type": "object",
+  "required": ["sources"],
+  "properties": {
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source_id", "title", "source_type", "rights_status", "verification_status"],
+        "properties": {
+          "source_id": {"type": "string", "pattern": "^SRC-[0-9]{3,}$"},
+          "title": {"type": "string", "minLength": 1},
+          "author": {"type": "string"},
+          "publisher": {"type": "string"},
+          "edition": {"type": "string"},
+          "year": {"type": ["integer", "null"]},
+          "source_type": {"enum": ["book", "scan", "institutional_digitization", "website", "user_provided", "other"]},
+          "url": {"type": ["string", "null"]},
+          "locator_format": {"type": "string"},
+          "rights_status": {"enum": ["public_domain", "permission_granted", "user_provided", "needs_review", "unknown"]},
+          "rights_notes": {"type": "string"},
+          "verification_status": {"enum": ["discovered", "rights_review", "source_selected", "verified", "rejected"]},
+          "reliability_notes": {"type": "string"},
+          "added_by": {"type": "string"},
+          "added_at": {"type": "string"}
+        }
+      }
+    }
+  }
+}
