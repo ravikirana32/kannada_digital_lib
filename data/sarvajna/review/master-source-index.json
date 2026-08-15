@@ -1,0 +1,1737 @@
+{
+  "corpus": "ಸರ್ವಜ್ಞ ತ್ರಿಪದಿಗಳು",
+  "version": "0.4.1",
+  "status": "research",
+  "scope_note": "This index is a research/control index. It is not a claim that the final corpus count has been established.",
+  "reference_sources": [
+    "SRC-001",
+    "SRC-002"
+  ],
+  "records": [
+    {
+      "tripadi_number": 1,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 1",
+          "text_checked": true
+        }
+      ],
+      "canonical_source_id": "SRC-002",
+      "canonical_locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 1",
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "category": "ಜೀವನಚರಿತ್ರೆ",
+      "variant_status": "needs_editorial_review",
+      "source_text_verified": true,
+      "rights_cleared": false,
+      "status": "editorial_review"
+    },
+    {
+      "tripadi_number": 2,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 2",
+          "text_checked": true
+        }
+      ],
+      "canonical_source_id": "SRC-002",
+      "canonical_locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 2",
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "category": "ಜೀವನಚರಿತ್ರೆ",
+      "variant_status": "needs_editorial_review",
+      "source_text_verified": true,
+      "rights_cleared": false,
+      "status": "editorial_review"
+    },
+    {
+      "tripadi_number": 3,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 3",
+          "text_checked": true
+        }
+      ],
+      "canonical_source_id": "SRC-002",
+      "canonical_locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 3",
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "category": "ಜೀವನಚರಿತ್ರೆ",
+      "variant_status": "needs_editorial_review",
+      "source_text_verified": true,
+      "rights_cleared": false,
+      "status": "editorial_review"
+    },
+    {
+      "tripadi_number": 4,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 4",
+          "text_checked": true
+        }
+      ],
+      "canonical_source_id": "SRC-002",
+      "canonical_locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 4",
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "category": "ಜೀವನಚರಿತ್ರೆ",
+      "variant_status": "needs_editorial_review",
+      "source_text_verified": true,
+      "rights_cleared": false,
+      "status": "editorial_review"
+    },
+    {
+      "tripadi_number": 5,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 5",
+          "text_checked": true
+        }
+      ],
+      "canonical_source_id": "SRC-002",
+      "canonical_locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 5",
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "category": "ಜೀವನಚರಿತ್ರೆ",
+      "variant_status": "needs_editorial_review",
+      "source_text_verified": true,
+      "rights_cleared": false,
+      "status": "editorial_review"
+    },
+    {
+      "tripadi_number": 6,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 7,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 8,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 9,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 10,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 11,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 12,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 13,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 14,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 15,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 16,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 17,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 18,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 19,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 20,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 21,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 22,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 23,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 24,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 25,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 26,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 27,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 28,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 29,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 30,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 31,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 32,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 33,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 34,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 35,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 36,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 37,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 38,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 39,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 40,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 41,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 42,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 43,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 44,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 45,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 46,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 47,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 48,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 49,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 50,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 51,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 52,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 53,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 54,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 55,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 56,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 57,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 58,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 59,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 60,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 61,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 62,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 63,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 64,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 65,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 66,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 67,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 68,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 69,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 70,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 71,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 72,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 73,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 74,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    },
+    {
+      "tripadi_number": 75,
+      "reference_sources": [
+        {
+          "source_id": "SRC-001",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-002",
+          "locator": "",
+          "text_checked": false
+        }
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "section": "",
+      "category": "",
+      "variant_status": "unverified",
+      "source_text_verified": false,
+      "rights_cleared": false,
+      "status": "research_queue"
+    }
+  ]
+}

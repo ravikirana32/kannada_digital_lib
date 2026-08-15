@@ -1,0 +1,15 @@
+{
+  "version": "0.4.2",
+  "records": [],
+  "statuses": [
+    "none_found",
+    "whitespace_only",
+    "punctuation",
+    "spelling",
+    "wording",
+    "numbering",
+    "missing",
+    "duplicate",
+    "needs_editorial_review"
+  ]
+}

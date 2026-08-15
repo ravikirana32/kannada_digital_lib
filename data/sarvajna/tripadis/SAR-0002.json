@@ -1,0 +1,36 @@
+{
+  "id": "SAR-0002",
+  "author": "ಸರ್ವಜ್ಞ",
+  "work": "ಸರ್ವಜ್ಞ ತ್ರಿಪದಿಗಳು",
+  "tripadi_number": 2,
+  "original": "ಅಂದಿನಾ । ಪುಷ್ಪದತ್ತ ॥ ಬಂದ ವರರುಚಿಯಾಗಿ\nಮುಂ ದೇವಸಾಲೆ ಸರ್ವಜ್ಞ - ನೆಂದೆನಿಸಿ\nನಿಂದವನು ತಾನೇ ಸರ್ವಜ್ಞ",
+  "padartha": "ಹಿಂದಿನ ಪುಷ್ಪದತ್ತನು ವರರುಚಿಯಾಗಿ, ನಂತರ ಸರ್ವಜ್ಞನೆಂದು ಪ್ರಸಿದ್ಧನಾದನೆಂಬ ಪರಂಪರೆಯ ನಿರೂಪಣೆ.",
+  "bhavartha": "ಈ ತ್ರಿಪದಿ ಸರ್ವಜ್ಞನ ಹೆಸರಿನೊಂದಿಗೆ ಜೋಡಿಸಲಾದ ಪರಂಪರೆಯ ಕಥನವನ್ನು ಮುಂದುವರಿಸುತ್ತದೆ. ಪಠ್ಯದಲ್ಲಿನ ಹೇಳಿಕೆಯನ್ನು ಸಾಹಿತ್ಯಿಕ/ಪರಂಪರೆಯ ಹೇಳಿಕೆಯಾಗಿ ಗ್ರಹಿಸಿ, ಖಚಿತ ಐತಿಹಾಸಿಕ ಜೀವನಚರಿತ್ರೆಯಾಗಿ ಪರಿಗಣಿಸಬಾರದು.",
+  "life_message": "ಪರಂಪರೆ ಮತ್ತು ಇತಿಹಾಸ ಎರಡನ್ನೂ ಬೇರ್ಪಡಿಸಿ ನೋಡುವ ಅಭ್ಯಾಸ ಜ್ಞಾನಪೂರ್ಣ ಓದಿಗೆ ಸಹಾಯಕ.",
+  "category": "ಜೀವನಚರಿತ್ರೆ",
+  "keywords": [
+    "ಸರ್ವಜ್ಞ",
+    "ಪುಷ್ಪದತ್ತ",
+    "ವರರುಚಿ",
+    "ಪರಂಪರೆ"
+  ],
+  "source": {
+    "source_id": "SRC-002",
+    "title": "ಸರ್ವಜ್ಞನ ವಚನಗಳು — Kannada Wikisource",
+    "publisher": "Kannada Wikisource",
+    "year": null,
+    "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, ೨",
+    "url": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+    "verified": true,
+    "notes": "Cross-check against SRC-001 pending."
+  },
+  "rights": {
+    "status": "needs_review",
+    "license": "CC BY-SA (Wikisource page license; preserve attribution/share-alike requirements)",
+    "permission_reference": "https://kn.wikisource.org/wiki/ವಿಕಿಸೋರ್ಸ್:Copyright"
+  },
+  "review_status": "editorial_review",
+  "version": "1.0.0",
+  "created_at": "2026-08-14",
+  "updated_at": "2026-08-14"
+}

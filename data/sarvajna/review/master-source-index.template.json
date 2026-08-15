@@ -1,0 +1,19 @@
+{
+  "corpus": "Sarvajna Tripadis",
+  "status": "research",
+  "records": [
+    {
+      "tripadi_number": 1,
+      "reference_sources": [
+        "SRC-001",
+        "SRC-002"
+      ],
+      "canonical_source_id": "",
+      "canonical_locator": "",
+      "source_text_verified": false,
+      "variant_notes": "",
+      "rights_cleared": false,
+      "status": "unverified"
+    }
+  ]
+}

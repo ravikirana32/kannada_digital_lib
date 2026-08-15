@@ -1,0 +1,36 @@
+{
+  "id": "SAR-0004",
+  "author": "ಸರ್ವಜ್ಞ",
+  "work": "ಸರ್ವಜ್ಞ ತ್ರಿಪದಿಗಳು",
+  "tripadi_number": 4,
+  "original": "ಮಾಸನೂರ ಬಸವರಸ । ಕೊಸನಿಶನ ಕೇಳಲು\nಕಾಶಿಯೀಶನೊಳು ಪಡೆದ ವರ - ವಧು ನಡುವೆ\nಸೂಸಿತೆಂತಲು ಸರ್ವಜ್ಞ",
+  "padartha": "ಮಾಸನೂರ ಬಸವರಸನು ಕಾಶಿಯ ಈಶನಿಂದ ಪಡೆದ ವರದ ಪರಿಣಾಮವಾಗಿ ವಧುವಿನ ನಡುವೆ ಸರ್ವಜ್ಞನ ಜನನ ಸಂಭವಿಸಿತು ಎಂಬ ಕಥನ.",
+  "bhavartha": "ಇದು ಸರ್ವಜ್ಞನ ಜನನದ ಬಗ್ಗೆ ಇರುವ ಪರಂಪರೆಯ ಕಥೆಯನ್ನು ಮುಂದುವರಿಸುತ್ತದೆ. ಕಥನದ ಒಳಗಿನ ಧಾರ್ಮಿಕ ನಂಬಿಕೆ ಮತ್ತು ಜನಪ್ರಚಲಿತ ಜೀವನಕಥೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಇದರ ಮುಖ್ಯ ಓದು.",
+  "life_message": "ಒಂದು ಸಾಹಿತ್ಯಿಕ ಪರಂಪರೆಯ ಕಥೆಯನ್ನು ಅದರ ಸಾಂಸ್ಕೃತಿಕ ಹಿನ್ನೆಲೆಯೊಂದಿಗೆ ಓದುವುದು, ತಕ್ಷಣ ಐತಿಹಾಸಿಕ ತೀರ್ಮಾನಕ್ಕೆ ಬರುವುದಕ್ಕಿಂತ ಉತ್ತಮ.",
+  "category": "ಜೀವನಚರಿತ್ರೆ",
+  "keywords": [
+    "ಮಾಸನೂರ ಬಸವರಸ",
+    "ಕಾಶಿ",
+    "ಭಕ್ತಿ",
+    "ಜನನ"
+  ],
+  "source": {
+    "source_id": "SRC-002",
+    "title": "ಸರ್ವಜ್ಞನ ವಚನಗಳು — Kannada Wikisource",
+    "publisher": "Kannada Wikisource",
+    "year": null,
+    "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, ೪",
+    "url": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+    "verified": true,
+    "notes": "Cross-check against SRC-001 pending."
+  },
+  "rights": {
+    "status": "needs_review",
+    "license": "CC BY-SA (Wikisource page license; preserve attribution/share-alike requirements)",
+    "permission_reference": "https://kn.wikisource.org/wiki/ವಿಕಿಸೋರ್ಸ್:Copyright"
+  },
+  "review_status": "editorial_review",
+  "version": "1.0.0",
+  "created_at": "2026-08-14",
+  "updated_at": "2026-08-14"
+}

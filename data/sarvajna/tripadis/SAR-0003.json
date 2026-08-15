@@ -1,0 +1,36 @@
+{
+  "id": "SAR-0003",
+  "author": "ಸರ್ವಜ್ಞ",
+  "work": "ಸರ್ವಜ್ಞ ತ್ರಿಪದಿಗಳು",
+  "tripadi_number": 3,
+  "original": "ಮಕ್ಕಳಿಲ್ಲವು ಎಂದು । ಅಕ್ಕಮಲ್ಲಮ್ಮನು\nದುಕ್ಕದಿ ಬಸವ । ಗರಿಪಲ್ಲವ । - ಕಾಶಿಯ\nಮುಕ್ಕಣ್ಣಗೆ ಹೋದ ಸರ್ವಜ್ಞ",
+  "padartha": "ಮಕ್ಕಳಿಲ್ಲದ ದುಃಖದಿಂದ ಅಕ್ಕಮಲ್ಲಮ್ಮಳು ಕಾಶಿಯ ಮುಕ್ಕಣ್ಣನನ್ನು (ಶಿವನನ್ನು) ಪ್ರಾರ್ಥಿಸಲು ಹೋದಳು ಎಂಬ ಕಥನ.",
+  "bhavartha": "ಈ ತ್ರಿಪದಿ ಸರ್ವಜ್ಞನ ಜನನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಜನಪ್ರಚಲಿತ ಕಥೆಯ ಒಂದು ಭಾಗವನ್ನು ಹೇಳುತ್ತದೆ. ಕುಟುಂಬದ ಆಶೆ, ದುಃಖ ಮತ್ತು ಭಕ್ತಿಯ ಮನೋಭಾವ ಇಲ್ಲಿ ಕಾಣುತ್ತದೆ.",
+  "life_message": "ದುಃಖದ ಸಂದರ್ಭಗಳಲ್ಲಿ ಮಾನವನಿಗೆ ನಂಬಿಕೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಆಶ್ರಯವು ಮನೋಬಲ ನೀಡಬಹುದು; ಆದರೆ ಕಥನವನ್ನು ಇತಿಹಾಸದ ದಾಖಲೆ ಎಂದು ನಿರ್ಧರಿಸಲು ಪ್ರತ್ಯೇಕ ಸಾಕ್ಷ್ಯ ಬೇಕು.",
+  "category": "ಜೀವನಚರಿತ್ರೆ",
+  "keywords": [
+    "ಅಕ್ಕಮಲ್ಲಮ್ಮ",
+    "ಭಕ್ತಿ",
+    "ಕುಟುಂಬ",
+    "ಸರ್ವಜ್ಞ"
+  ],
+  "source": {
+    "source_id": "SRC-002",
+    "title": "ಸರ್ವಜ್ಞನ ವಚನಗಳು — Kannada Wikisource",
+    "publisher": "Kannada Wikisource",
+    "year": null,
+    "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, ೩",
+    "url": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+    "verified": true,
+    "notes": "Cross-check against SRC-001 pending."
+  },
+  "rights": {
+    "status": "needs_review",
+    "license": "CC BY-SA (Wikisource page license; preserve attribution/share-alike requirements)",
+    "permission_reference": "https://kn.wikisource.org/wiki/ವಿಕಿಸೋರ್ಸ್:Copyright"
+  },
+  "review_status": "editorial_review",
+  "version": "1.0.0",
+  "created_at": "2026-08-14",
+  "updated_at": "2026-08-14"
+}

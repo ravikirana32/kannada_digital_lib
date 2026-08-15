@@ -63,3 +63,27 @@ python scripts/build_epub.py
 ## Content status
 
 The repository contains no fabricated Sarvajna source text. The website uses a clearly marked demo record for UI testing only.
+
+## Master index
+
+```bash
+python scripts/index_report.py
+python scripts/intake_tripadi.py 1
+```
+
+The intake helper creates an empty record only; it never invents source text.
+
+## Phase 4A tools
+
+```bash
+python scripts/index_report.py
+python scripts/find_duplicates.py
+python scripts/review_report.py
+python scripts/publish_candidates.py
+```
+
+Research-only comparison template: `data/sarvajna/review/source-comparison.template.json`
+
+Rights audit: `data/sarvajna/metadata/rights-audit.json`
+
+Variant register: `data/sarvajna/review/variant-register.json`

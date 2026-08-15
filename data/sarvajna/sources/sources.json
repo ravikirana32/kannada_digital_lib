@@ -2,20 +2,33 @@
   "sources": [
     {
       "source_id": "SRC-001",
-      "title": "Source candidate — to be verified",
-      "author": "ಸರ್ವಜ್ಞ",
-      "publisher": "",
-      "edition": "",
-      "year": null,
-      "source_type": "book",
-      "url": null,
-      "locator_format": "page/section",
-      "rights_status": "unknown",
-      "rights_notes": "Placeholder only. Replace with a verified permitted/public-domain source.",
-      "verification_status": "discovered",
-      "reliability_notes": "No textual content is derived from this placeholder.",
-      "added_by": "",
-      "added_at": ""
+      "title": "ಸರ್ವಜ್ಞನ ವಚನಗಳು",
+      "editor": "ಉತ್ತಂಗಿ ಚನ್ನಪ್ಪ",
+      "publication_year": 1957,
+      "source_type": "institutional_digitization",
+      "url": "https://archive.org/details/in.ernet.dli.2015.363853/mode/2up",
+      "locator_format": "printed page / scan page",
+      "rights_status": "needs_review",
+      "rights_notes": "Historical/reference edition supplied by the project. Use for discovery and cross-checking; do not treat this 1957 edition as an unrestricted redistribution source.",
+      "verification_status": "source_selected",
+      "reliability_notes": "Useful reference for Uttangi's edited corpus. Kannada scholarly material identifies the 1924 Uttangi edition as a major edited collection.",
+      "added_by": "project",
+      "added_at": "2026-08-13"
+    },
+    {
+      "source_id": "SRC-002",
+      "title": "ಸರ್ವಜ್ಞನ ವಚನಗಳು — Kannada Wikisource",
+      "editor": "",
+      "publication_year": null,
+      "source_type": "website",
+      "url": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+      "locator_format": "section / Tripadi number",
+      "rights_status": "needs_review",
+      "rights_notes": "Wikisource states that user contributions are generally released under CC BY-SA/GFDL unless otherwise noted. The underlying source/edition of the transcription still needs to be traced before it is used as the canonical redistribution source.",
+      "verification_status": "rights_review",
+      "reliability_notes": "Useful machine-readable/reference corpus with numbered Tripadis and topical sections. Cross-check against a source edition before publication.",
+      "added_by": "project",
+      "added_at": "2026-08-13"
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "tripadi_number": 1,
+  "sources": [
+    {
+      "source_id": "SRC-001",
+      "locator": "",
+      "text": ""
+    },
+    {
+      "source_id": "SRC-002",
+      "locator": "",
+      "text": ""
+    }
+  ],
+  "comparison": {
+    "match_status": "unverified",
+    "notes": ""
+  },
+  "canonical_source_id": "",
+  "canonical_locator": ""
+}

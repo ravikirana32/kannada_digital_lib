@@ -1,0 +1,36 @@
+{
+  "id": "SAR-0001",
+  "author": "ಸರ್ವಜ್ಞ",
+  "work": "ಸರ್ವಜ್ಞ ತ್ರಿಪದಿಗಳು",
+  "tripadi_number": 1,
+  "original": "ಮುನ್ನ ಪೂರ್ವದಲಾನು । ಪನ್ನಗಧರನಾಳು\nಎನ್ನಯ ಪೆಸರು ಪುಷ್ಪದತ್ತನು-ಎಂದು\nಮನ್ನಿಪರು ನೋಡ ಸರ್ವಜ್ಞ",
+  "padartha": "ಈ ತ್ರಿಪದಿಯಲ್ಲಿ ಕವಿ ತನ್ನ ಪೂರ್ವಜನ್ಮದ ಹೆಸರು ಪುಷ್ಪದತ್ತನೆಂದು ಹೇಳುವ ಪರಂಪರೆಯ ಉಲ್ಲೇಖವಿದೆ.",
+  "bhavartha": "ಸರ್ವಜ್ಞನ ಜೀವನದ ಕುರಿತು ಜನಪ್ರಚಲಿತವಾಗಿರುವ ಪೂರ್ವಜನ್ಮದ ಕಥನವನ್ನು ಈ ತ್ರಿಪದಿ ಸೂಚಿಸುತ್ತದೆ. ಇದನ್ನು ಐತಿಹಾಸಿಕ ಸತ್ಯವೆಂದು ಅಲ್ಲದೆ, ಸರ್ವಜ್ಞನಿಗೆ ಸಂಬಂಧಿಸಿದ ಪರಂಪರೆಯ ಆತ್ಮಕಥನಾತ್ಮಕ ಉಲ್ಲೇಖವೆಂದು ಓದುವುದು ಸೂಕ್ತ.",
+  "life_message": "ಸಾಹಿತ್ಯಕೃತಿಯಲ್ಲಿರುವ ಆತ್ಮಕಥನಾತ್ಮಕ ಹೇಳಿಕೆಗಳನ್ನು ಗೌರವದಿಂದ ಓದುವುದರ ಜೊತೆಗೆ, ಅವುಗಳ ಐತಿಹಾಸಿಕ ಪ್ರಮಾಣಿಕತೆಯನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಪರಿಶೀಲಿಸಬೇಕು.",
+  "category": "ಜೀವನಚರಿತ್ರೆ",
+  "keywords": [
+    "ಸರ್ವಜ್ಞ",
+    "ಪುಷ್ಪದತ್ತ",
+    "ಪೂರ್ವಜನ್ಮ",
+    "ಜೀವನ"
+  ],
+  "source": {
+    "source_id": "SRC-002",
+    "title": "ಸರ್ವಜ್ಞನ ವಚನಗಳು — Kannada Wikisource",
+    "publisher": "Kannada Wikisource",
+    "year": null,
+    "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, ೧",
+    "url": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+    "verified": true,
+    "notes": "Text transcribed from the current Wikisource page. Cross-check against SRC-001 still pending."
+  },
+  "rights": {
+    "status": "needs_review",
+    "license": "CC BY-SA (Wikisource page license; preserve attribution/share-alike requirements)",
+    "permission_reference": "https://kn.wikisource.org/wiki/ವಿಕಿಸೋರ್ಸ್:Copyright"
+  },
+  "review_status": "editorial_review",
+  "version": "1.0.0",
+  "created_at": "2026-08-14",
+  "updated_at": "2026-08-14"
+}
