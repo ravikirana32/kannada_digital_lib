@@ -13,115 +13,190 @@
       "reference_sources": [
         {
           "source_id": "SRC-001",
-          "locator": "",
+          "locator": "Archive PDF page 10",
           "text_checked": false
         },
         {
           "source_id": "SRC-002",
           "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 1",
           "text_checked": true
+        },
+        {
+          "source_id": "SRC-003",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-004",
+          "locator": "",
+          "text_checked": false
         }
       ],
       "canonical_source_id": "SRC-002",
       "canonical_locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 1",
       "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
       "category": "ಜೀವನಚರಿತ್ರೆ",
-      "variant_status": "needs_editorial_review",
-      "source_text_verified": true,
+      "variant_status": "ordering_numbering_discrepancy_confirmed",
+      "source_text_verified": false,
       "rights_cleared": false,
-      "status": "editorial_review"
+      "status": "cross_source_reconciliation_complete_pending_historical_verification",
+      "edition_aware": true,
+      "canonical_id": "SAR-0001",
+      "authenticity_status": "not_assessed",
+      "publication_gate": "blocked_until_text_rights_editorial_approval",
+      "canonical_text_status": "not_set"
     },
     {
       "tripadi_number": 2,
       "reference_sources": [
         {
           "source_id": "SRC-001",
-          "locator": "",
+          "locator": "Archive PDF page 10",
           "text_checked": false
         },
         {
           "source_id": "SRC-002",
           "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 2",
           "text_checked": true
+        },
+        {
+          "source_id": "SRC-003",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-004",
+          "locator": "",
+          "text_checked": false
         }
       ],
       "canonical_source_id": "SRC-002",
       "canonical_locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 2",
       "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
       "category": "ಜೀವನಚರಿತ್ರೆ",
-      "variant_status": "needs_editorial_review",
-      "source_text_verified": true,
+      "variant_status": "ordering_numbering_discrepancy_confirmed",
+      "source_text_verified": false,
       "rights_cleared": false,
-      "status": "editorial_review"
+      "status": "cross_source_reconciliation_complete_pending_historical_verification",
+      "edition_aware": true,
+      "canonical_id": "SAR-0002",
+      "authenticity_status": "not_assessed",
+      "publication_gate": "blocked_until_text_rights_editorial_approval",
+      "canonical_text_status": "not_set"
     },
     {
       "tripadi_number": 3,
       "reference_sources": [
         {
           "source_id": "SRC-001",
-          "locator": "",
+          "locator": "Archive PDF page 10",
           "text_checked": false
         },
         {
           "source_id": "SRC-002",
           "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 3",
           "text_checked": true
+        },
+        {
+          "source_id": "SRC-003",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-004",
+          "locator": "",
+          "text_checked": false
         }
       ],
       "canonical_source_id": "SRC-002",
       "canonical_locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 3",
       "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
       "category": "ಜೀವನಚರಿತ್ರೆ",
-      "variant_status": "needs_editorial_review",
-      "source_text_verified": true,
+      "variant_status": "ordering_numbering_discrepancy_confirmed",
+      "source_text_verified": false,
       "rights_cleared": false,
-      "status": "editorial_review"
+      "status": "cross_source_reconciliation_complete_pending_historical_verification",
+      "edition_aware": true,
+      "canonical_id": "SAR-0003",
+      "authenticity_status": "not_assessed",
+      "publication_gate": "blocked_until_text_rights_editorial_approval",
+      "canonical_text_status": "not_set"
     },
     {
       "tripadi_number": 4,
       "reference_sources": [
         {
           "source_id": "SRC-001",
-          "locator": "",
+          "locator": "Archive PDF page 11",
           "text_checked": false
         },
         {
           "source_id": "SRC-002",
           "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 4",
           "text_checked": true
+        },
+        {
+          "source_id": "SRC-003",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-004",
+          "locator": "",
+          "text_checked": false
         }
       ],
       "canonical_source_id": "SRC-002",
       "canonical_locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 4",
       "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
       "category": "ಜೀವನಚರಿತ್ರೆ",
-      "variant_status": "needs_editorial_review",
-      "source_text_verified": true,
+      "variant_status": "ordering_numbering_discrepancy_confirmed",
+      "source_text_verified": false,
       "rights_cleared": false,
-      "status": "editorial_review"
+      "status": "cross_source_reconciliation_complete_pending_historical_verification",
+      "edition_aware": true,
+      "canonical_id": "SAR-0004",
+      "authenticity_status": "not_assessed",
+      "publication_gate": "blocked_until_text_rights_editorial_approval",
+      "canonical_text_status": "not_set"
     },
     {
       "tripadi_number": 5,
       "reference_sources": [
         {
           "source_id": "SRC-001",
-          "locator": "",
+          "locator": "Archive PDF page 11",
           "text_checked": false
         },
         {
           "source_id": "SRC-002",
           "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 5",
           "text_checked": true
+        },
+        {
+          "source_id": "SRC-003",
+          "locator": "",
+          "text_checked": false
+        },
+        {
+          "source_id": "SRC-004",
+          "locator": "",
+          "text_checked": false
         }
       ],
       "canonical_source_id": "SRC-002",
       "canonical_locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 5",
       "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
       "category": "ಜೀವನಚರಿತ್ರೆ",
-      "variant_status": "needs_editorial_review",
-      "source_text_verified": true,
+      "variant_status": "ordering_numbering_discrepancy_confirmed",
+      "source_text_verified": false,
       "rights_cleared": false,
-      "status": "editorial_review"
+      "status": "cross_source_reconciliation_complete_pending_historical_verification",
+      "edition_aware": true,
+      "canonical_id": "SAR-0005",
+      "authenticity_status": "not_assessed",
+      "publication_gate": "blocked_until_text_rights_editorial_approval",
+      "canonical_text_status": "not_set"
     },
     {
       "tripadi_number": 6,
@@ -144,7 +219,8 @@
       "variant_status": "unverified",
       "source_text_verified": false,
       "rights_cleared": false,
-      "status": "research_queue"
+      "status": "source_acquisition_pipeline",
+      "publication_gate": "blocked_until_text_rights_editorial_approval"
     },
     {
       "tripadi_number": 7,
@@ -167,7 +243,8 @@
       "variant_status": "unverified",
       "source_text_verified": false,
       "rights_cleared": false,
-      "status": "research_queue"
+      "status": "source_acquisition_pipeline",
+      "publication_gate": "blocked_until_text_rights_editorial_approval"
     },
     {
       "tripadi_number": 8,
@@ -190,7 +267,8 @@
       "variant_status": "unverified",
       "source_text_verified": false,
       "rights_cleared": false,
-      "status": "research_queue"
+      "status": "source_acquisition_pipeline",
+      "publication_gate": "blocked_until_text_rights_editorial_approval"
     },
     {
       "tripadi_number": 9,
@@ -213,7 +291,8 @@
       "variant_status": "unverified",
       "source_text_verified": false,
       "rights_cleared": false,
-      "status": "research_queue"
+      "status": "source_acquisition_pipeline",
+      "publication_gate": "blocked_until_text_rights_editorial_approval"
     },
     {
       "tripadi_number": 10,
@@ -236,7 +315,8 @@
       "variant_status": "unverified",
       "source_text_verified": false,
       "rights_cleared": false,
-      "status": "research_queue"
+      "status": "source_acquisition_pipeline",
+      "publication_gate": "blocked_until_text_rights_editorial_approval"
     },
     {
       "tripadi_number": 11,
@@ -259,7 +339,8 @@
       "variant_status": "unverified",
       "source_text_verified": false,
       "rights_cleared": false,
-      "status": "research_queue"
+      "status": "source_acquisition_pipeline",
+      "publication_gate": "blocked_until_text_rights_editorial_approval"
     },
     {
       "tripadi_number": 12,
@@ -282,7 +363,8 @@
       "variant_status": "unverified",
       "source_text_verified": false,
       "rights_cleared": false,
-      "status": "research_queue"
+      "status": "source_acquisition_pipeline",
+      "publication_gate": "blocked_until_text_rights_editorial_approval"
     },
     {
       "tripadi_number": 13,
@@ -305,7 +387,8 @@
       "variant_status": "unverified",
       "source_text_verified": false,
       "rights_cleared": false,
-      "status": "research_queue"
+      "status": "source_acquisition_pipeline",
+      "publication_gate": "blocked_until_text_rights_editorial_approval"
     },
     {
       "tripadi_number": 14,
@@ -328,7 +411,8 @@
       "variant_status": "unverified",
       "source_text_verified": false,
       "rights_cleared": false,
-      "status": "research_queue"
+      "status": "source_acquisition_pipeline",
+      "publication_gate": "blocked_until_text_rights_editorial_approval"
     },
     {
       "tripadi_number": 15,

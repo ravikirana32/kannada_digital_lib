@@ -1,0 +1,454 @@
+{
+  "version": "0.5.2",
+  "date": "2026-08-15",
+  "records": [
+    {
+      "canonical_id": "SAR-0001",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": 1,
+          "text_checked": true,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 1"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0002",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": 2,
+          "text_checked": true,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 2"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0003",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": 3,
+          "text_checked": true,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 3"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0004",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": 4,
+          "text_checked": true,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 4"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0005",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": 5,
+          "text_checked": true,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 5"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0006",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "not yet extracted"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0007",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "not yet extracted"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0008",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "not yet extracted"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0009",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "not yet extracted"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0010",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "not yet extracted"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0011",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "not yet extracted"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0012",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "not yet extracted"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0013",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "not yet extracted"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0014",
+      "research_batch": "BIOGRAPHICAL-1-14",
+      "section_candidate": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_evidence": {
+        "SRC-002": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "not yet extracted"
+        },
+        "SRC-001": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "visual verification pending"
+        },
+        "SRC-003": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "exact 1924 scan not located"
+        },
+        "SRC-004": {
+          "source_number": null,
+          "text_checked": false,
+          "locator": "critical edition location pending"
+        }
+      },
+      "variant_status": "unresolved",
+      "authenticity_status": "not_assessed",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    }
+  ]
+}

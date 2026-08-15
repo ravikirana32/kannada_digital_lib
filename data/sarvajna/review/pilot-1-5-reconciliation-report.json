@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-15",
+  "status": "research_only",
+  "records": [
+    {
+      "canonical_id": "SAR-0001",
+      "candidate_mappings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 1,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, ೧",
+          "status": "candidate"
+        },
+        {
+          "source_id": "SRC-002",
+          "source_number": 1,
+          "locator": "current Wikisource page",
+          "status": "candidate"
+        }
+      ],
+      "finding": "Current Wikisource starts its ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ with the Pushpadatta verse. Independent blogs use a different global numbering/order, so source number must remain edition-specific.",
+      "decision": "unresolved"
+    },
+    {
+      "canonical_id": "SAR-0002",
+      "candidate_mappings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 2,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, ೨",
+          "status": "candidate"
+        }
+      ],
+      "finding": "Current Wikisource gives the Pushpadatta/Vararuchi verse as section item 2. Independent web transcriptions also show it as item 3 under a different sequence.",
+      "decision": "unresolved"
+    },
+    {
+      "canonical_id": "SAR-0003",
+      "candidate_mappings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 3,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, ೩",
+          "status": "candidate"
+        }
+      ],
+      "finding": "Current Wikisource item 3 begins the Akkamallamma narrative, while another online collection uses a different global sequence. This proves numbering cannot be treated as universal.",
+      "decision": "unresolved"
+    },
+    {
+      "canonical_id": "SAR-0004",
+      "candidate_mappings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 4,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, ೪",
+          "status": "candidate"
+        }
+      ],
+      "finding": "Current Wikisource item 4 is in the same biographical section. Historical/modern sources warn that the opening biographical poems may be interpolations or of uncertain authenticity.",
+      "decision": "unresolved"
+    },
+    {
+      "canonical_id": "SAR-0005",
+      "candidate_mappings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 5,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, ೫",
+          "status": "candidate"
+        }
+      ],
+      "finding": "Current Wikisource item 5 continues the opening biographical sequence. It should not be promoted to canonical until the historical edition is checked.",
+      "decision": "unresolved"
+    }
+  ]
+}

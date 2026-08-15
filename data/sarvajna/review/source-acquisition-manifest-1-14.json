@@ -1,0 +1,621 @@
+{
+  "version": "0.5.3",
+  "records": [
+    {
+      "canonical_id": "SAR-0001",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "checked",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0002",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "checked",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0003",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "checked",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0004",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "checked",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0005",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "checked",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0006",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "pending",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0007",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "pending",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0008",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "pending",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0009",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "pending",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0010",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "pending",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0011",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "pending",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0012",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "pending",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0013",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "pending",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0014",
+      "sources": {
+        "SRC-001": {
+          "acquisition": "archive_ocr",
+          "status": "ocr_only",
+          "text": ""
+        },
+        "SRC-002": {
+          "acquisition": "wikisource",
+          "status": "pending",
+          "text": ""
+        },
+        "SRC-003": {
+          "acquisition": "exact_1924_scan",
+          "status": "not_located",
+          "text": ""
+        },
+        "SRC-004": {
+          "acquisition": "critical_edition",
+          "status": "locator_pending",
+          "text": ""
+        },
+        "SRC-005": {
+          "acquisition": "digital_discovery",
+          "status": "reference_pending",
+          "text": ""
+        }
+      },
+      "reconciliation": {
+        "match_class": "unresolved",
+        "similarity": null,
+        "variant_ids": []
+      },
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "publication_gate": {
+        "text_verified": false,
+        "rights_verified": false,
+        "editorial_approved": false
+      }
+    }
+  ]
+}

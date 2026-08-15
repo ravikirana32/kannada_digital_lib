@@ -1,0 +1,16 @@
+{
+  "candidate_id": "",
+  "source_id": "",
+  "source_number": null,
+  "section": "",
+  "text": "",
+  "locator": "",
+  "fingerprint": "",
+  "acquisition_status": "discovered",
+  "match_status": "unresolved",
+  "variant_group": null,
+  "canonical_id": null,
+  "authenticity_status": "not_assessed",
+  "rights_status": "needs_review",
+  "editorial_status": "research"
+}

@@ -1,0 +1,60 @@
+{
+  "version": "0.6.1",
+  "gates": [
+    {
+      "canonical_id": "SAR-0001",
+      "text_verified": false,
+      "historical_source_verified": false,
+      "critical_source_checked": false,
+      "authenticity_assessed": false,
+      "rights_verified": false,
+      "bhavartha_ready": false,
+      "editorial_approved": false,
+      "publication_ready": false
+    },
+    {
+      "canonical_id": "SAR-0002",
+      "text_verified": false,
+      "historical_source_verified": false,
+      "critical_source_checked": false,
+      "authenticity_assessed": false,
+      "rights_verified": false,
+      "bhavartha_ready": false,
+      "editorial_approved": false,
+      "publication_ready": false
+    },
+    {
+      "canonical_id": "SAR-0003",
+      "text_verified": false,
+      "historical_source_verified": false,
+      "critical_source_checked": false,
+      "authenticity_assessed": false,
+      "rights_verified": false,
+      "bhavartha_ready": false,
+      "editorial_approved": false,
+      "publication_ready": false
+    },
+    {
+      "canonical_id": "SAR-0004",
+      "text_verified": false,
+      "historical_source_verified": false,
+      "critical_source_checked": false,
+      "authenticity_assessed": false,
+      "rights_verified": false,
+      "bhavartha_ready": false,
+      "editorial_approved": false,
+      "publication_ready": false
+    },
+    {
+      "canonical_id": "SAR-0005",
+      "text_verified": false,
+      "historical_source_verified": false,
+      "critical_source_checked": false,
+      "authenticity_assessed": false,
+      "rights_verified": false,
+      "bhavartha_ready": false,
+      "editorial_approved": false,
+      "publication_ready": false
+    }
+  ]
+}

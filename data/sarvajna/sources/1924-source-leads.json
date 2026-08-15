@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-15",
+  "status": "discovery",
+  "exact_1924_scan_found": false,
+  "leads": [
+    {
+      "lead_id": "LEAD-001",
+      "name": "Mysore University Encyclopedia — Channappa Uttangi",
+      "url": "https://kn.wikisource.org/wiki/ಮೈಸೂರು_ವಿಶ್ವವಿದ್ಯಾನಿಲಯ_ವಿಶ್ವಕೋಶ/ಚನ್ನಪ್ಪ,_ಉತ್ತಂಗಿ",
+      "type": "bibliographic_evidence",
+      "confidence": "high",
+      "supports": [
+        "1924 edition",
+        "editor Uttangi",
+        "1915-1924 editorial period",
+        "Mysore Government acquisition",
+        "four editions"
+      ]
+    },
+    {
+      "lead_id": "LEAD-002",
+      "name": "Shastriya Kannada — Chennappa Uttangi",
+      "url": "https://shastriyakannada.org/database/english/scholars/CHENNAPPA%20UTTANGI%20HTML.htm",
+      "type": "scholarly_bibliography",
+      "confidence": "high",
+      "supports": [
+        "1924 edition",
+        "1928 poems",
+        "manuscript collection",
+        "variants/interpolations",
+        "32 paddhatis"
+      ]
+    },
+    {
+      "lead_id": "LEAD-003",
+      "name": "Kannada Sahitya Parishattu — Uttangi profile",
+      "url": "https://kannadasahithyaparishattu.in/ಸತ್ಯವ್ರತ/",
+      "type": "institutional_biography",
+      "confidence": "medium",
+      "supports": [
+        "1924 Sarvajna Vachanagalu as Uttangi's major research work",
+        "Uttangi biography"
+      ]
+    },
+    {
+      "lead_id": "LEAD-004",
+      "name": "University of Madras Kannada reading list",
+      "url": "https://www.unom.ac.in/webportal/uploads/naac/1/additional/47%20M.A.%20Kannada.pdf",
+      "type": "academic_bibliography",
+      "confidence": "medium",
+      "supports": [
+        "recognized Sarvajnana Vachanagalu editions/authors in academic curriculum"
+      ],
+      "note": "Does not establish the exact 1924 scan."
+    },
+    {
+      "lead_id": "LEAD-005",
+      "name": "Current 1,928-verse Uttangi-edited book listing",
+      "url": "https://harivubooks.com/products/sarvajna-vachanagalu-poems-channappa-uttangi-kannada-book",
+      "type": "modern_book_listing",
+      "confidence": "medium",
+      "supports": [
+        "Uttangi edition contains 1,928 vachanas"
+      ],
+      "note": "Modern commercial edition; not a rights-cleared source."
+    }
+  ],
+  "next_search_targets": [
+    "Digital Library of India catalogue identifiers",
+    "National Digital Library of India catalogue",
+    "University of Mysore library catalogue",
+    "Kannada Sahitya Parishattu library catalogue",
+    "Madras/Chennai university library catalogue",
+    "WorldCat/Open Library exact 1924 bibliographic record",
+    "Internet Archive alternate scans"
+  ]
+}

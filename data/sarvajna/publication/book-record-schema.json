@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "record_order": [
+    "canonical_id",
+    "title",
+    "original_kannada",
+    "bhavartha",
+    "source_note",
+    "variant_note",
+    "authenticity_note",
+    "rights_note",
+    "editorial_note"
+  ],
+  "formats": [
+    "json",
+    "docx",
+    "pdf",
+    "epub"
+  ],
+  "rule": "Only approved records enter final publication outputs."
+}

@@ -1,0 +1,13 @@
+{
+  "states": [
+    "source_collected",
+    "reconciliation_pending",
+    "historical_review",
+    "authenticity_review",
+    "rights_review",
+    "editorial_review",
+    "approved",
+    "rejected",
+    "needs_revision"
+  ]
+}

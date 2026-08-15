@@ -1,0 +1,10 @@
+{
+  "version": "0.5.0",
+  "records": [],
+  "rules": [
+    "Never assume source number is global.",
+    "Store edition_id + source_number + locator.",
+    "Assign global canonical number only after reconciliation.",
+    "Preserve alternate numbers."
+  ]
+}

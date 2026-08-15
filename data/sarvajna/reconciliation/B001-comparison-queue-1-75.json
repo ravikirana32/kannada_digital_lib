@@ -1,0 +1,382 @@
+{
+  "batch": "B001",
+  "range": "1-75",
+  "status": "ready_for_independent_source_ingestion",
+  "records": [
+    {
+      "candidate_id": "CAND-0001",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0002",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0003",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0004",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0005",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0006",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0007",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0008",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0009",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0010",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0011",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0012",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0013",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0014",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0015",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0016",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0017",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0018",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0019",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0020",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0021",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0022",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0023",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0024",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0025",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0026",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0027",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0028",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0029",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0030",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0031",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0032",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0033",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0034",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0035",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0036",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0037",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0038",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0039",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0040",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0041",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0042",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0043",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0044",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0045",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0046",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0047",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0048",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0049",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0050",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0051",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0052",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0053",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0054",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0055",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0056",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0057",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0058",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0059",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0060",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0061",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0062",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0063",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0064",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0065",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0066",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0067",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0068",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0069",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0070",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0071",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0072",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0073",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0074",
+      "comparison_result": "pending",
+      "decision": "pending"
+    },
+    {
+      "candidate_id": "CAND-0075",
+      "comparison_result": "pending",
+      "decision": "pending"
+    }
+  ]
+}

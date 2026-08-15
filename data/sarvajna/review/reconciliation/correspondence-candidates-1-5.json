@@ -1,0 +1,47 @@
+{
+  "version": "0.5.5",
+  "status": "research_only",
+  "candidates": [
+    {
+      "candidate_id": "CAND-0001",
+      "observations": [
+        "SRC-002 item 1 and WEB-ALT-001 item 1 are different texts",
+        "SRC-005/other digital traditions may represent the Nandi/Ganesha opening"
+      ],
+      "status": "ordering_discrepancy"
+    },
+    {
+      "candidate_id": "CAND-0002",
+      "observations": [
+        "SRC-002 item 2 is the Vararuchi verse",
+        "WEB-ALT-001 item 2 is the Pushpadatta verse"
+      ],
+      "status": "numbering_discrepancy"
+    },
+    {
+      "candidate_id": "CAND-0003",
+      "observations": [
+        "SRC-002 item 3 is Akkamallamma narrative",
+        "WEB-ALT-001 item 3 is the Vararuchi verse"
+      ],
+      "status": "numbering_discrepancy"
+    },
+    {
+      "candidate_id": "CAND-0004",
+      "observations": [
+        "SRC-002 item 4 is Masanur Basavarasa narrative",
+        "WEB-ALT-001 item 4 is a different verse"
+      ],
+      "status": "numbering_discrepancy"
+    },
+    {
+      "candidate_id": "CAND-0005",
+      "observations": [
+        "SRC-002 item 5 is pregnancy/birth narrative",
+        "WEB-ALT-001 item 5 is a different verse"
+      ],
+      "status": "numbering_discrepancy"
+    }
+  ],
+  "decision": "Do not assign global numbers from these web sequences."
+}

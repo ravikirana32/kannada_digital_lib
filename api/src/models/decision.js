@@ -1,0 +1,1 @@
+const {DataTypes}=require("sequelize"); module.exports=(s)=>s.define("Decision",{id:{type:DataTypes.UUID,defaultValue:DataTypes.UUIDV4,primaryKey:true},candidate_id:{type:DataTypes.STRING,allowNull:false},decision:{type:DataTypes.STRING,allowNull:false},note:DataTypes.TEXT},{tableName:"editorial_decisions",underscored:true});

@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "USR-ADMIN-001",
+      "email": "admin@example.local",
+      "role": "admin",
+      "password_hash": "CHANGE_ME"
+    },
+    {
+      "id": "USR-EDITOR-001",
+      "email": "editor@example.local",
+      "role": "editor",
+      "password_hash": "CHANGE_ME"
+    }
+  ]
+}

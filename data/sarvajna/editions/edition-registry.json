@@ -1,0 +1,59 @@
+{
+  "version": "0.5.0",
+  "editions": [
+    {
+      "edition_id": "PRE-1868",
+      "year": 1868,
+      "role": "historical_discovery",
+      "status": "reference_only"
+    },
+    {
+      "edition_id": "UTTANGI-1924",
+      "year": 1924,
+      "editor": "ಚನ್ನಪ್ಪ ಉತ್ತಂಗಿ",
+      "role": "primary_historical_candidate",
+      "status": "bibliographically_confirmed_scan_not_located"
+    },
+    {
+      "edition_id": "UTTANGI-1935-POCKET",
+      "year": 1935,
+      "editor": "ಚನ್ನಪ್ಪ ಉತ್ತಂಗಿ",
+      "role": "later_edition",
+      "status": "reference_candidate"
+    },
+    {
+      "edition_id": "UTTANGI-1935-JANAPADA",
+      "year": 1935,
+      "editor": "ಚನ್ನಪ್ಪ ಉತ್ತಂಗಿ",
+      "role": "later_edition",
+      "status": "reference_candidate"
+    },
+    {
+      "edition_id": "UTTANGI-1941-CHEAP",
+      "year": 1941,
+      "editor": "ಚನ್ನಪ್ಪ ಉತ್ತಂಗಿ",
+      "role": "later_edition",
+      "status": "reference_candidate"
+    },
+    {
+      "edition_id": "UTTANGI-1957",
+      "year": 1957,
+      "editor": "ಚನ್ನಪ್ಪ ಉತ್ತಂಗಿ",
+      "role": "historical_reference",
+      "status": "reference_only"
+    },
+    {
+      "edition_id": "PARAMARTHA-1980",
+      "year": 1980,
+      "editor": "ಡಾ. ಎಲ್. ಬಸವರಾಜು",
+      "role": "critical_reference",
+      "status": "reference_only"
+    },
+    {
+      "edition_id": "WIKISOURCE-CURRENT",
+      "year": null,
+      "role": "digital_transcription",
+      "status": "reference_candidate"
+    }
+  ]
+}

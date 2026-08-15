@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-15",
+  "source_checked": "SRC-002",
+  "records": [
+    {
+      "tripadi_number": 1,
+      "action": "corrected_to_current_source_text",
+      "status": "editorial_review",
+      "archive_crosscheck": "pending"
+    },
+    {
+      "tripadi_number": 2,
+      "action": "corrected_to_current_source_text",
+      "status": "editorial_review",
+      "archive_crosscheck": "pending"
+    },
+    {
+      "tripadi_number": 3,
+      "action": "corrected_to_current_source_text",
+      "status": "editorial_review",
+      "archive_crosscheck": "pending"
+    },
+    {
+      "tripadi_number": 4,
+      "action": "corrected_to_current_source_text",
+      "status": "editorial_review",
+      "archive_crosscheck": "pending"
+    },
+    {
+      "tripadi_number": 5,
+      "action": "corrected_to_current_source_text",
+      "status": "editorial_review",
+      "archive_crosscheck": "pending"
+    }
+  ]
+}

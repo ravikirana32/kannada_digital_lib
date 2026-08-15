@@ -1,0 +1,1366 @@
+{
+  "candidates": [
+    {
+      "id": "CAND-0001",
+      "source_number": 1,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 1,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮುನ್ನ ಪೂರ್ವದಲಾನು । ಪನ್ನಗಧರನಾಳು\nಎನ್ನಯ ಪೆಸರು ಪುಷ್ಪದತ್ತನು-ಎಂದು\nಮನ್ನಿಪರು ನೋಡ ಸರ್ವಜ್ಞ",
+          "locator": "Wikisource current page",
+          "normalized_sha256": "aa64215ed724ca31727784696c5aba217edef996988cfff453702743f63beb3a",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "SRC-005",
+          "source_number": null,
+          "section": null,
+          "text": "ನಂದಿಯನು ಏರಿದನ । ಚಂದಿರನ ಸೂಡಿದನ ।\nಕಂದನನು ಬೇಡಿ ನಲಿದಾನು ನೆನೆವುತ್ತ ।\nಮುಂದೆ ಪೇಳುವೆನು ಸರ್ವಜ್ಞ",
+          "locator": "Sanchaya/searchable online tradition; source numbering not established",
+          "normalized_sha256": "889bda101c8407615dc082c04b241904c0a495a614b5b049270286dc53839e6f",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 1,
+          "section": null,
+          "text": "ನಂದಿಯನು ಏರಿದನ\nಚಂದಿರನ ಮುಡಿದವನ ಕಂದನಂ ಬೇಡಿ ನೆನೆವುತ್ತ\nಮುಂದೆ ಹೇಳುವೆನು ಸರ್ವಜ್ಞ",
+          "locator": "Kannadavesatya transcription",
+          "normalized_sha256": "9c4997021114dc0f4a8ad476db002768775eaadded2cf07e57b5bc3cf6864993",
+          "text_status": "source_reading"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0002",
+      "source_number": 2,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 2,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಅಂದಿನಾ । ಪುಷ್ಪದತ್ತ ॥ ಬಂದ ವರರುಚಿಯಾಗಿ\nಮುಂ ದೇವಸಾಲೆ ಸರ್ವಜ್ಞ - ನೆಂದೆನಿಸಿ\nನಿಂದವನು ತಾನೇ ಸರ್ವಜ್ಞ",
+          "locator": "Wikisource current page",
+          "normalized_sha256": "9606c230e2183b05a7d8e1b774f95b01d4eb9cf3b34edc9ee2b6d3488718d501",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 2,
+          "section": null,
+          "text": "ಮುನ್ನ ಕಾಲದಲಿ ಪನ್ನಗಧರನಾಳು\nಎನ್ನೆಯ ಪೆಸರು, ಪುಷ್ಪದತ್ತನು ಎಂದು\nಮನಿಪರು ದಯದಿ ಸರ್ವಜ್ಞ",
+          "locator": "Kannadavesatya transcription",
+          "normalized_sha256": "24c40da7a2415e1ee3f021762b4e0266d2ae75ff91bc78e88b53893d2a3cc1ff",
+          "text_status": "source_reading"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0003",
+      "source_number": 3,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 3,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮಕ್ಕಳಿಲ್ಲವು ಎಂದು । ಅಕ್ಕಮಲ್ಲಮ್ಮನು\nದುಕ್ಕದಿ ಬಸವ । ಗರಿಪಲ್ಲವ । - ಕಾಶಿಯ\nಮುಕ್ಕಣ್ಣಗೆ ಹೋದ ಸರ್ವಜ್ಞ",
+          "locator": "Wikisource current page",
+          "normalized_sha256": "4742f732defe017c2ec1a4dffb2fc621334afc48c4055c29dbf94e519520f974",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 3,
+          "section": null,
+          "text": "ಅಂದಿನ ಪುಷ್ಪದತ್ತ ಬಂದ ವರರುಚಿಯಾಗಿ\nಮುದವ ಸಾರೆ, ಸರ್ವಜ್ಞನೆಂದೆನಿಸಿ\nನಿಂದವನು ನಾನೆ ಸರ್ವಜ್ಞ",
+          "locator": "Kannadavesatya transcription",
+          "normalized_sha256": "d2f4ece2c714331a072bc24b4925bbcfcc05190572d315807e49694ff8b6e201",
+          "text_status": "source_reading"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0004",
+      "source_number": 4,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 4,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮಾಸನೂರ ಬಸವರಸ । ಕೊಸನಿಶನ ಕೇಳಲು\nಕಾಶಿಯೀಶನೊಳು ಪಡೆದ ವರ - ವಧು ನಡುವೆ\nಸೂಸಿತೆಂತಲು ಸರ್ವಜ್ಞ",
+          "locator": "Wikisource current page",
+          "normalized_sha256": "f7549df0410761b61d6767ba6b0bc1829fe7cc7b6a113f3f209839b7128ed629",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 4,
+          "section": null,
+          "text": "ಸಣ್ಣನೆಯ ಮಳಲೊಳಗೆ ನುಣ್ಣನೆಯ ಶಿಲೆಯೊಳಗೆ\nಬಣ್ಣೆಸಿಬರೆದ ಪಟದೊಳಗೆಯಿರುವಾತ\nತಣ್ಣೊಳಗೆ ಇರನೇ ಸರ್ವಜ್ಞ",
+          "locator": "Kannadavesatya transcription",
+          "normalized_sha256": "14b41b61bdf51a38d4a2cc5ec28b7f3581330be355196a6c45c78a18ea9ba440",
+          "text_status": "source_reading"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0005",
+      "source_number": 5,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 5,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಗಂಡಾಗಬೇಕೆಂದು । ಪಿರಿಂಡವ ನುಂಗಲು\nಲಂಡೆ ಮಾಳ್ವೆಯೊಳು ಜನಿಸಿ - ಲೋಕದೊಳು\nಕಂಡುದನೆ ಪೇಳ್ವೆ ಸರ್ವಜ್ಞ",
+          "locator": "Wikisource current page",
+          "normalized_sha256": "571eb9849738f4fbe9ad2aa5aa9fccc9a2642594b158966d203ec4f2a0775ed9",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 5,
+          "section": null,
+          "text": "ಹೊಲಸು ಮಾಂಸದ ಹುತ್ತ ಎಲುವಿನಾ ಹಂದರವು\nಬಲಸು ರಕ್ತದ ಚರ್ಮದ ತೊಗಲು\nಒಳಗಿರುವಾತ ಸರ್ವಜ್ಞ",
+          "locator": "Kannadavesatya transcription",
+          "normalized_sha256": "4cf55c92a2092ca2ae0e7b7197de53e262840a44209e4bb3ed88393de7c4c14a",
+          "text_status": "source_reading"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0006",
+      "source_number": 6,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 6,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಗಡಿಗೆ-ಮಡಕೆಯ ಕೊಂಡು । ಅಡುವಡಾವಿಗೆಯೊಳಗೆ\nಬಿಡದೆ ಮಳೆಮೋಡ ಹಿಡಿಯಲವ - ರಿಬ್ಬರಿಗು\nತಡೆ ಬಿಡಲಾಯ್ತು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "5b3fa8716997b4a4dd40b308f0dab57a0f84cb0f3e3d9af5f6e3be1c0c4db60e"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0007",
+      "source_number": 7,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 7,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಅಂಬಲೂರೊಳಗೆಸೆವ । ಕುಂಬಾರಸಾಲೆಯಲಿ\nಇಂದಿನ । ಕಳೆಯ । ಮಾಳಿಯೊಳು - ಬಸವರಸ\nನಿಂಬಿಟ್ಟನೆನ್ನ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "b7fe54ccf9f40f3626583ea33ab6d743f166c1f32b9a04c9c7862ff9de1aa05b"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0008",
+      "source_number": 8,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 8,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಬಿಂದುವ ಬಿಟ್ಟು ಹೋ । ದಂದು ಬಸುರಾದಳವ\nಳಂದದಿಯಷ್ಟಾದಶ ಮಾಸ - ಉದರದಲಿ\nನಿಂದು ನಾ ಬೆಳೆದೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "cb08c63917adf569a6f19b0f041c950fda7f1031b09aa0727ae37a0d1727be48"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0009",
+      "source_number": 9,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 9,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಹೆತ್ತವಳು ಮಾಳಿ ಎನ್ನ । ನೊತ್ತಿ ತೆಗೆದವಳು ಕೇಶಿ\nಕತ್ತು ಬೆನ್ನ ಹಿಡಿದವಳು ಕಾಳಿ - ಮೊರಿದೊಳೆನ್ನ\nಬತ್ತಲಿರಿಸಿದಳು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "5edac5a2c79666f42f8161b0b19b623962a58a575f282e311a0c6ee1ab90f825"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0010",
+      "source_number": 10,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 10,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಬೆಳೆದೆನವರಿಂದೆನ್ನ । ಕಳೆಯ ಕಂಡವರೆಲ್ಲ\nಮೊಳೆಯಲ್ಲಿ ಸಸಿಯನರಿವಂತೆ - ಮಾಳಿಯ\nತಿಳಿದವರರೆಗು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "bda5cd6d07576a50394a8bb50ef33a76e0143be9e8c480fa233e0127bc83d0fb"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0011",
+      "source_number": 11,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 11,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಗಂಡ ತನ್ನಯದೆಂಬ । ಲಂಡೆ ತನ್ನಯದೆಂಬ\nಖಂಡಪರಶುವಿನ ವರಪುತ್ರ - ನಾನು ನೆರೆ\nಕಂಡುದೆನೆ ಪೇಳ್ವೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "e4763c6440f1d859b6d5319e6136b1ec2af080fbe13f8379264f8bda3bc22175"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0012",
+      "source_number": 12,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 12,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮಾಳನು ಮಾಳಿಯು । ಕೊಳ್ ತಿಂದ ಹೆಮ್ಮೆಯಲಿ\nಕೇಳೆ ನೀನಾರ ಮಗನೆಂದು - ನಾ ಶಿವನ\nಮೇಳದಣುಗೆಂಬೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "7d502646ba018fb10cef7b7d12db5b2dad45e7effadba29f578ed13c4631c082"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0013",
+      "source_number": 13,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 13,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ತಂದೆ ಹಾರುವನಲ್ಲ । ತಾಯಿ ಮಾಳಿಯು ಅಲ್ಲ\nಚಂದ್ರಶೇಖರನ ವರಪುತ್ರ - ನಾ ನಿಮ್ಮ\nಕಂದನಲ್ಲೆಂಬೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "c53ac0e7bcac476c57665b531c8e2878ab3cf79399d6e2ef64ae2dd62b9f6a86"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0014",
+      "source_number": 14,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 14,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ನೊಕಿದವರಾಗ । ಕುಕಟಿಯವನು\nಲೋಕದೊಳಗೆಲ್ಲ ಕಂಡುದ - ನುಡಿವುತ\nಏಕವಾಗಿಹೆನು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "60166dd3aefabfaf4da1daa2981d96b87ce89cb6ff0f34eb99f0f94806f31358"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0015",
+      "source_number": 15,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 15,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮೀರಿ ಬೆಳೆಯಲ್ಕೆನಗೆ । ಅರಿ ಬಣ್ಣವನುಡಿಸಿ\nಮೂರು ರುಚಿದೋಳು ಶಿವ - ತನ್ನನು\nತೋರದೇ ಹೋದ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "5698fa49bd528fe6a36da9935b15d23b53e718b7b53e3ca2937b00def110539e"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0016",
+      "source_number": 16,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 16,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಕ್ಷೀರದೊಳು ಘೃತವಿದ್ದು । ನೀರೊಳು ಶಿಖಿಯಿದ್ದು\nಆರಿಗೆಯು ತೋರಿದಿಹುದಂತೆ - ಎನ್ನೊಳಗೆ\nಸಾರಿಹನು ಸಿವನು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "60707545cb78dbcde20192a58427f3e4a1d168116cfb44c02ee52ca6d03eca3a"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0017",
+      "source_number": 17,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 17,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಹೊಲಸು ಮಾಂಸದ ಹುತ್ತ । ಎಲುವಿನ ಹಂಜರವು\nಹೊಲೆ ಬಲಿದು ತನುವಿನೊಳಗಿರ್ದು - ಮತ್ತದರಿ\nಕುಲವನೆಣೆಸುವರೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "b94df64ea5facda940e371765e9dddda441320cbde4fe9b94cd63c886935c21f"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0018",
+      "source_number": 18,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 18,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಎಲುವಿನ ಕಾಯಕ್ಕೆ । ಸಲೆ ಚರ್ಮವನು ಹೊದಿಸಿ\nಮಲ-ಮೂತ್ರ-ಕ್ರಿಮಿಯು ಒಳಗಿರ್ಪ - ದೇಹಕ್ಕೆ\nಕುಲವಾವುದಯ್ಯ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "2b72051dc8745bc4f53867c71edbf52b48b6e9049fcf9ce92de0563c296e637d"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0019",
+      "source_number": 19,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 19,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಬೆಂದಾವಿಗೆಯ ಭಾಂಡ । ಒಂದೊಂದು ಭೋಗವನು\nಅಂದಂದಿಗುಂಡು ಒಡೆದು ಹಂಚಾದಂತೆ\nಬಿಂದುವಿನ ದೇಹ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "1f739dbb6f0658fe3af91ff577f55e03b0822cc33cf976ef94b1d52f93c66b16"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0020",
+      "source_number": 20,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 20,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮಗಳಕ್ಕ ತಂಗಿಯು । ಮಿಗೆ ಸೊಸೊಯು ನಾದಿನಿಯು\nಜಗದ ವನಿತೆಯರು ಜನನಿ ಮಂತಾದವರು\nಜಗಕೊಬ್ಬಳೈಸೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "a36b3bbbb94b8ac7536b08517998e7983f780ec4a94c7ccaed25bec633c3de42"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0021",
+      "source_number": 21,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 21,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಪಂಚವಿಂಶಶಿತತ್ವ । ಸಂಚದ ದೇಹವನು\nಹಂಚೆಂದು ಕಾಣಲರಿಳೆಯದೋಡೆ - ಭವ ಮುಂದೆ\nಗೊಂಚಲಾಗಿಹುದು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "a7c12ac7f9b1a7b69c6848b6bc1aa0dcbd4806b0e783274d15c398269d8cce54"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0022",
+      "source_number": 22,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 22,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ನೋಡಿರೇ ಎರಡೊರು । ಕೂಡಿದ ಮಧ್ಯದಲಿ\nಮೂಡಿಹ ಸ್ಮರನ ಮನೆಯಲ್ಲಿ -\nನಾಡೆಯುದಯಿಸಿತು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "fb48b79f4f3c3e14b12b5544c9e312ca13eabea0977205661ec65c788e9fd65f"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0023",
+      "source_number": 23,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 23,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಊರಗಳ ಮೂಲದಲಿ । ಮಾರನರಮನೆಯಲ್ಲಿ\nಭೋರಿಜೀವಿಗಳ ಹುಟ್ಟಿಸಿದ - ಅಜನಿಗಿ\nನ್ನಾರು ಸಾಯುಂಟೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "301cc1f7b8c09409cbcb6d942f81fdc90d5678a5609ce4b964fdb4396c68f3be"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0024",
+      "source_number": 24,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 24,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಲಿಂಗಯಲ್ಲಿ । ಸಂಗಿಸಿ ಚರಿಸಲು\nಜಂಘೆಯಲಿ ನಡವ ಸರ್ವ ಜೀವಂಗಳು\nಲಿಂಗದಿಂ ಜನನ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "e73f722e7e93b5ff2fdf82a04cd22161520f58effbee224d998f3ba98f435f2c"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0025",
+      "source_number": 25,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 25,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಲಿಂಗ ಉಳ್ಳನೆ ಪುರುಷ । ಲಿಂಗ ಉಳ್ಳನೆ ಸರಸ\nಲಿಂಗ ಉಳ್ಳವಗೆ ರತಿಭೋಗ - ವತುಳಸುಖ\nಲಿಂಗದಿಂ ಜನನ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "de0fa1ec10b93b549a83552ac833c56917921a53e6c5de4393d178cdf052d00f"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0026",
+      "source_number": 26,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 26,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮಾಸಿನೊಳು ಮುಸುಕಿರ್ದು । ಮೂಸಿ ಬರುತಾಸನವ\nಹೇಸಿಕೆಯ ಮಲವು ಸೂಸುವುದ - ಕಂಡು ಕಂ\nಡಾಸೆ ಬಿಡದು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "f4098472e2fd33aa66946b3e2b74a98a38f9d623809c0b1a586b963349887cc4"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0027",
+      "source_number": 27,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 27,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಬ್ರಹ್ಮ ಗಡ । ಸ್ಥಿತಿಗೆ ಆ ವಿಷ್ಣು ಗಡ\nಹತವ ಮಾಡುವಡೆ ರುದ್ರ ಗಡ - ಎಂದೆಂಬ\nಸ್ಥಿತಿಯ ತಿಳಿಯೆಂದ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "fbf7f85f01d6d031fee7fd8e203b197579cb2405b704ca20947c764c65c7f439"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0028",
+      "source_number": 28,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 28,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ದಿಟವೆ ಪುಣ್ಯದ ಪುಂಜ । ಸಟೆಯೆ ಪಾಪದ ಬೀಜ\nಕುಟಿಲ ವಂಚನೆಯ ಪೊಗದಿರು - ನಿಜವ ಪಿಡಿ\nಘಟವ ನೆಚ್ಚದಿರು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "1e42692d5c29b4ff4d38880df580cad5a7f0e2add6bae57f2880c152f7fdfad2"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0029",
+      "source_number": 29,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 29,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಪರಮನೈಮೊಗ ಉಳಿದು । ನೆರವಿಯನೊಲ್ಲದೆ\nನರರೊಪ ಧರಿಸಿ ಗುರುವಾಗಿ - ಬೋಧಿಪಗೆ\nಸರಿ ಯಾರ ಕಾಣೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "55395b4610e663e931ae24044caeb785ed518c4bdc4ab379abd025d55330c716"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0030",
+      "source_number": 30,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 30,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಪರತತ್ವ ತನ್ನೊಳಗೆ । ಎರವಿಲ್ಲದಿರುತಿರಲು\nಪರದೇಶಿಯಾಗಿ ಇರುತಿರು - ವಾತನ\nಪರಮ ಗುರುವೆಂಬೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "43f88f43775298143c361598519769777e024a79f46f561fe8c183d72620db7f"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0031",
+      "source_number": 31,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 31,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಸುರತರು ಮರನಲ್ಲ । ಸುರಭಿಯೊಂದಾವಲ್ಲ\nಪರುಷ ಪಾಷಾಣದೊಳಗಲ್ಲ - ಗುರುವು ತಾ\nನರರೊಳಗಲ್ಲ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "2d81eb499b662abb2a706bd7b28f2ec8e5ac09ad52f1e33229bf7a92aa8b297a"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0032",
+      "source_number": 32,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 32,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ದರುಶನವಾರಿರಃ । ಪುರುಷರು ಮೂವರಿಂ\nಪರತತ್ವದಿರವು ಬೇರೆಂದು - ತೋರಿದ\nಗುರು ತಾನೆ ದೈವ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "b82ab8fdd39630b932473d682e4a408f57426e7e5f0c14b0572be65c38674a30"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0033",
+      "source_number": 33,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 33,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಜ್ಯೋತಿಯಿಂದವೆ ನೇತ್ರ । ರಾತ್ರಿಯಲಿ ಕಾಂಬಂತೆ\nಸೂತ್ರದಲಿ ಧಾತನರೆವಂತೆ - ಶಿವನ ಗುರು\nನಾಥನಿಂದರಿಗು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "08410085b6e2802774d518221e37759caeddeb7d9144da0f0c7be49079a02f71"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0034",
+      "source_number": 34,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 34,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಬ್ರಹ್ಮವೆಂಬುದು ತಾನು । ಒಮ್ಮಾರು ನೀಳವೇ\nಒಮ್ಮೆ ಸದ್ಗುರುವಿನುಪದೇಶ - ವಾಲಿಸಲು\nಗಮ್ಮನೆ ಮುಕ್ತಿ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "3bc0fa512a5c8259f6c55ddf2cae6e33d80bf218347ad6549e2f2e588c699b5f"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0035",
+      "source_number": 35,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 35,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಹರ ತನ್ನೊಳಿರ್ದುದ । ಗುರುತೋರಿ । ದಿರಲಹುದೆ ।\nಮರನೊಳಗ್ನಿ ಇರುತಿರ್ದು - ತನ್ನ ತಾ\nನುರಿವುದ ಕಂಡ ? ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "cb7be0d8eb8c4e8b3c3976534cd2c3a680d54ad28b66b65585f41c457e0b182b"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0036",
+      "source_number": 36,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 36,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ನರಕ ಪಾಪಿಷ್ಠರಿಗೆ । ಸುರಲೋಕ ( ದಿಟ್ಟರಿಗೆ )\nಗುರುಬೋಧೆಯಲ್ಲಿ ಜಗ ಉಳಿಗು - ಮಲ್ಲದೊಡೆ\nಉರಿದು ಹೋಗುವುದು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "7ca3aaa1135815a4356cf67c1eae232b0a91ba33df4c91df87d2624fa00d34ee"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0037",
+      "source_number": 37,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 37,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮರಹುಳ್ಳ ಮನುಜರಿಗೆ । ತೆರನಾವುರೆವುದಕೆ\nಕರಿಗೊಂಡ ಭ್ರಮೆಯ ಪರೆವ - ಗುರುವಿನ ಭೋಧೆ\nಕರಿಗೊಳ್ಳಬೇಕು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "8fcaad2a9f59411dc61a4aa1e165b8af7cd98e7eb6e5c6494a2c33d5955411d7"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0038",
+      "source_number": 38,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 38,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮಂಡೆ ಬೋಳಾದೊಡಂ । ದಂಡು ಕೋಲ್ವಿಡಿದೊಡಂ\nಹೆಂಡತಿಯ ಬಿಟ್ಟು ನಡೆದೊಡಂ - ಗುರುಮುಖವ\nಕಂಡಲ್ಲದಿಲ್ಲ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "c9ef09d1c54dfc6ce4cdeda5e19678bc339ae1541f4166ad7d8563702900a01e"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0039",
+      "source_number": 39,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 39,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮೂರುಕಣ್ಣೀಶ್ವರನ । ತೋರಿಕೊಡಬಲ್ಲ ಗುರು\nಬೇರರಿವುದೊಂದು ತೆರನಿಲ್ಲ - ಗುರುಕರಣ\nತೋರಿಸುಗು ಶಿವನ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "ca8242f5001b3d004d757740cbd6ccc92168e2998e60a46e956f142b980a3736"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0040",
+      "source_number": 40,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 40,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಊರಿಗೆ ದಾರಿಯ । ನಾರು ತೋರಿದರೇನು\nಸಾರಾಯಮಪ್ಪ ಮತವನರಿಹಿಸುವ ಗುರು\nಆರಾದೊಡೇನು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "a551b4e86b41c193027260dd3982c31995d3ccf4d606dffcf54fdcc5c42929d5"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0041",
+      "source_number": 41,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 41,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮನವು ಮುಟ್ಟಲು ಗಂಡು । ತನವು ಸೋಂಕಲು ಪಾಪ\nಮನವೇಕದಿಂದ ಗುರುಚರಣ - ಸೋಂಕಿದೊಡೆ\nತನು ಶುದ್ದವಯ್ಯ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "615c3e7f127c57609e063aad9fcce6ce742f1ca587131de5c0f19210018092e8"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0042",
+      "source_number": 42,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 42,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ತುಪ್ಪವಾದಾ ಬಳಿಕ । ಹೆಪ್ಪನೆರೆದವರುಂಟೆ\nನಿಃಪತಿಯಾದ ಗುರುವಿನುಪದೇಶದಿಂ\nತಪ್ಪದೇ ಮುಕ್ತಿ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "b313d9f02a5b13795e1513cedeb5877df7dd55f6e2f2acf7876e365317428d18"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0043",
+      "source_number": 43,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 43,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಪರುಷ ಲೋಹವ ಮುಟ್ಟಿ । ವರುಷವಿರಬಲ್ಲುದೇ\nಪರಷವೆಂತಂತೆ ಶಿಷ್ಯಂಗೆ - ಗುರುವಿನ\nಸ್ಪರುಶನವೆ ಮೋಕ್ಷ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "0375a9d95d8f934fd402d6d61e5f875b674b251607fefd6fb6e9340dcdd4bea2"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0044",
+      "source_number": 44,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 44,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ತಾಪದ ಸಂಸಾರ । ಕೊಪದಲಿ ಬಿಳ್ದವರು\nಆಪತ್ತನುಳಿದು ಪೊರಮಡಲು - ಗುರುಪಾದ\nಸೋಪಾನ ಕಂಡು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "feb4eb54c5ad21bf597a46a97d87a2a5a90b5c7d00e647969b35c0b310311c6c"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0045",
+      "source_number": 45,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 45,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮೊಸರ ಕಡೆಯಲು ಬೆಣ್ಣೆ । ಒಸೆದು ತೋರುವ ತೆರದಿ\nಹಸನುಳ್ಳ ಗುರುವಿನುಪದೇಶ - ದಿಂ ಮುಕ್ತಿ\nವಶವಾಗದಿಹುದೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "7572d5cc08e96675151c7cd47648faf74f7e317837d5b474aac59273366ad1c4"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0046",
+      "source_number": 46,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 46,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಗುರುಪಾದಸೇವೆ ತಾ । ದೊರೆಕೊಂಡಿತಾದೊಡೆ\nಹರೆವುದು ಪಾಪವರಿದೆನಲು - ವಜ್ರಾಯುಧದಿ\nಗಿರಿಯ ಹೊಯ್ದಂತೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "5518ec377b50c70df2b66f93cfeff082a582d3d54be8232fe68de4d54a4ab50a"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0047",
+      "source_number": 47,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 47,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಗುರುವಿನ ಸೇವೆಯು । ದೊರಕೊಂಡಿತಾದೊಡೆ\nಹರೆವುದು ಪಾಪವರಿದೆನಲು - ವಜ್ರಾಯುಧದಿ\nಗಿರಿಯ ಹೊಯ್ದಂತೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "0891477a9888eecfbff00117fc5a8c8c1fec40b3b442bbe5741cdcfacf72232b"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0048",
+      "source_number": 48,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 48,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಎತ್ತಾಗಿ ತೊತ್ತಾಗಿ । ಹಿತ್ತಿಲದ ಗಿಡವಾಗಿ\nಮತ್ತೆ ಪಾದದ ಕೆರವಾಗಿ - ಗುರುವಿನ\nಹತ್ತಿಲಿರು ಎಂದು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "fdcfd1be261deaad0298aa98910e22741658b3df6b9d8023ebdf396db3b90ef3"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0049",
+      "source_number": 49,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 49,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಸಾಣೆಕಲ್ಲೊಳು ಗಂಧ । ಮಾಣದೆ ಎಸೆವಂತೆ\nಜಾಣ ಶ್ರೀಗುರುವಿನುಪದೇಶ - ದಿಂ ಮುಕ್ತಿ\nಕಾಣೆಸುತಿಹುದು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "3b24ec3c378b0c1dc50c2d33ac658044baef5e2e5d70185cc61aa17e9af4ad87"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0050",
+      "source_number": 50,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 50,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಬೆಟ್ಟ ಕರ್ಪುರ ಉರಿದು । ಬೊಟ್ಟಿಡಲು ಬೂದಿಲ್ಲ\nನೆಟ್ಟನೆ ಗುರುವನರಿದನ - ಕರ್ಮವು\nಮುಟ್ಟಲಂಜುವವು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು#ಜಾತಿಸ್ಮರಣ_ಪದ್ದತಿ",
+          "fingerprint_sha256": "a22d5881ac780aca0c18e4b1dde4cf22cb1ce492ee665fbbbfec672db8df85da"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0051",
+      "source_number": 51,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 51,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ದುರ್ಗಿ(ಮಾರಿಯ ಮುಂಡಿ) । ಯಗ್ಗದ ಶಕ್ತಿಗಳು\nಸದ್ಗುಣ ಸತ್ಯ ಮುಸುರಿಹರ - ಮುಟ್ಟವು\nಸದ್ಗುರುವಿನಾಜ್ಞೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "b249a49f6d4733f619d2b4e0e2e94a733a38de86713d79d17314f655352ffde8",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0052",
+      "source_number": 52,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 52,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ವಿಷಯಕ್ಕೆ ಕುದಿಯದಿರು । ಆಶನಕ್ಕೆ ಹದೆಯದಿರು\nಅಸಮಾಕ್ಷನಡಿಯನಗಲದಿರು - ಗುರುಕರುಣ\nವಶವರ್ತಿಯಹುದು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "ca604da840ab88c2e23eb354ce8b83c1069e5499d334eafe4ad885bad5c71dbb",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0053",
+      "source_number": 53,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 53,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ತಂದೆಗೆ ಗುರುವಿಗೆ । ಒಂದು ಅಂತರವುಂಟು\nತಂದೆ ತೋರಿವನು ಶ್ರೀಗುರುವ - ಗುರುರಾಯ\nಬಂಧನವ ಕಳೆವ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "c6c2bca35a5a6ae09c5479e17a83a418779ec277d8944a3c23322ae6fcc816cd",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0054",
+      "source_number": 54,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 54,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಹುಸಿವನ ಬೇಹಾರ । ಕಸ ಹತ್ತಿದಾರಂಬ\nವಿಷಯ ಉಳ್ಳವನ ಗುರುತನ - ಇವು ಮೂರು\nಮಸಿವಣ್ಣ ಕಂಡ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "ec0116c0b5b2809af2007f294a8524329e92996a514290f3007f0245f81fe33a",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0055",
+      "source_number": 55,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 55,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಹಂದಿ ಚಂದನಸಾರ । ಗಂಧವ ಬಲ್ಲುದೇ\nಒಂದುವ ತಿಳಿಯಲರಿಯದನ - ಗುರುವಿಗೆ\nನಿಂದ್ಯವೇ ಬಹುದು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "85ac62de5e2039698d987bd52558c26e031b5ccc9de04f10253c4b0834fec662",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0056",
+      "source_number": 56,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 56,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಹೊಲಬನರಿಯದ ಗುರುವು । ತಿಳಿಯಲರಿಯದ ಶಿಷ್ಯ\nನೆಲೆಯನಾರಯ್ಯದುಪದೇಶ - ವಂಧಕನು\nಕಳನ ಹೊಕ್ಕಂತೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "7572624a97505b5df61dd4c6a7a1dcc98ef5ca95f460835cf433eb98bbf4a066",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0057",
+      "source_number": 57,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 57,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಶ್ವಾನ ತೆಂಗಿನ ಕಾಯ । ತಾನು ಮೆಲಬಲ್ಲುದೇ\nಜ್ಞಾನವಿಲ್ಲದಗೆ ಉಪದೇಶ - ವಿತ್ತಡೆ\nಹಾನಿ ಕಂಡಯ್ಯ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "5c8625fe7a8980d3a6b0c7e582614cf91c0d52859747c660914ef4192c872a60",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0058",
+      "source_number": 58,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 58,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಭಕ್ತಿಯಿಲ್ಲದ ಶಿಷ್ಯ । ಗೊತ್ತಿ ಕೊಟ್ಟುಪದೇಶ\nಬತ್ತಿದ ಕೆರೆಯ ಬಯಲಲ್ಲಿ - ರಾಜನವ\nಬಿತ್ತಿ ಬೆಳೆವಂತೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "f1a720564f02e84374daf52f3ec568c8f555f871417e352f1e9606db06ff5bc3",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0059",
+      "source_number": 59,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 59,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಹಸಿಯ ಸೌದೆಯ ತಂದು । ಹೊಸೆದರುಂಟೇ ಕಿಚ್ಚು\nವಿಷಯಂಅಗಳುಳ್ಳ ಮನುಜರಿಗೆ - ಗುರುಕರುಣ\nವಶವರ್ತಿಯಹುದೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "e6124bf13b8989b72f6343ffeed923aeba93f8b748fd5ec1f0cc9e9de208c5c3",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0060",
+      "source_number": 60,
+      "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 60,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಒಂದೂರ ಗುರುವಿರ್ದು । ವಂದನೆಯ ಮಾಡದೆ\nಸಂದಿಸೆ ಕೊಳ ತಿನಿತಿಪರ್ವನ - ಇಅರವು\nಹಮ್ದಿಯ ಇಅರವು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "3e5346ea582bb4902a71f9c092b6c551dd436e2451af0a355d8845d1b2738a39",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0061",
+      "source_number": 61,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 61,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಕಲ್ಲಿನೊಳ್ ಕುಚದಲ್ಲಿ । ಬಳ್ಳದೊಳ್ ಪಿಕ್ಕೆಯಲಿ\nಎಲ್ಲಿ ಭಾವಿಸಿದೊಡಲ್ಲಿರ್ಪ - ಭರಿತನನು\nಬಲ್ಲವೇ ನಿಗಮ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "83178d414284e36eea15df2f0cf226bcf6157f0e2c98791e524c08275b2d6a86",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0062",
+      "source_number": 62,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 62,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಲಿಂಗದ ಗುಡಿಯೆಲ್ಲಿ ? ಲಿಂಗಿಲ್ಲದೆಡೆಯೆಲ್ಲಿ\nಲಿಂಗದೆ ಜಗವು ಅಡಗಿಹುದು - ಲಿಂಗವನು\nಹಿಂಗಿ ಪರ ಉಂಟೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "b04bd97dd75cb956625199039358084229f6fd662c20f9b6f893483d8be553cb",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0063",
+      "source_number": 63,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 63,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಓಂಕಾರ ತಾನಲ್ಲ । ಹ್ರಾಂಕಾರ ಮುನ್ನಲ್ಲ\nಆಂಕಾಶತಳವ ಮೀರೆಹುದು - ಹರಿಯಜರು\nತಾಂ ಕಾಣರಯ್ಯ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "a71b9a8c456e75a3b4c6b3c42f4704ca4c6f13bd158638bb519934b68ffaed31",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0064",
+      "source_number": 64,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 64,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಓರ್ವನಲ್ಲದೆ ಮತ್ತೆ । ಇರ್ವರುಂಟೇ ಮರುಳೆ\nಸರ್ವಜ್ಞನೊರ್ವ ಜಗಕೆಲ್ಲ - ಕರ್ತಾರ\nನೊರ್ವನೇ ದೇವ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "11718a3ad17322dca99d2c83189beef180c1fa74130d2ed1008c48a3f7be0501",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0065",
+      "source_number": 65,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 65,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಉಣಲಡಿಗೆ ಹಲವಾಗಿ । ಕಣಿಕ ತಾನೊಂದಯ್ಯ\nಮಣಲೇಸು ದೈವ ಘನವಾಗಿ - ಲೋಕಕ್ಕೆ\nತ್ರಿಣಯನ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "83f309aa3d0d84def9e863542d8287a4bfb455a93e43fbbbf5f69b0d9842e973",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0066",
+      "source_number": 66,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 66,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಹರಿಬ್ರಹ್ಮರೆಂಬವರು । ಹರನಿಂದಲಾದವರು\nಅರಸಿಂಗೆ ಆಳು ಸರಿಯಹನೆ - ಪಶುಪತಿಗೆ\nಸರಿ ಯಾರ ಕಾಣೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "94b1a234cb9c32017016f3160e6d3bfd82867498e843815a923d418e738ef031",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0067",
+      "source_number": 67,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 67,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಹಿರಿಯ ಬೊಮ್ಮನು ಕೆಂಚ । ಹಿರಿಯ ಹರಿ ತಾ ಕರಿಕ\nಪುರಹರನು ಶುದ್ಧ ಧವಳಿತನು - ಇರೆ ಬೇರೆ\nಹರಗೆ ಸರಿಯಹರೀ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "b78c716f9dec88ba552d206d2bbde1305ce3cdfdb6af05e7df253d071fa58938",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0068",
+      "source_number": 68,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 68,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಹರಿದ ತಲೆ ಬ್ರಹ್ಮಂಗೆ । ಕುರೆಯ ತಲೆ ದಕ್ಷಂಗೆ\nನೆರೆ ಹತ್ತು ಜನನವಾ ಹರಿಗೆ - ಇವರುಗಳು\nಕರೆಗೊರಲಗಣೆಯೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "765cbfd6f3e8a05eb0172816301a4159c630e3fbd48c5cea7f52304cecb6fa70",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0069",
+      "source_number": 69,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 69,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಹುಟ್ಟಿಸುವನಜನೆಂಬ । ಕಷ್ಟದ ನುಡಿ ಬೇಡ\nಹುಟ್ಟಿಸುವವ ತನ್ನ ಶಿರ ಹರೆಯೆ - ಮತ್ತೊಂದು\nಹುಟ್ಟಿಸಿಕೊಳನೇಕೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "61725ccc2faa416b25407733b016a5ede006af313d5196fe7fb905a6240a7375",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0070",
+      "source_number": 70,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 70,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಬ್ರಹ್ಮ ನಿರ್ಮಿಪನೆಂಬ । ದುರ್ಮತಿಯೆ ನೀಂ ಕೇಳು\nಬ್ರಹ್ಮನಾ ಸತಿಗೆ ಮೂಗಿಲ್ಲ - ವಾ ಮೂಗ\nನಿರ್ಮಿಸನೇಕೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "06b6d07d6842f0f25628a94bd5567443e56b6a76a1d863a722a2b94a46adfc91",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0071",
+      "source_number": 71,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 71,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ನರಹರಿಯ ಕೊಲುವಂದು । ಎರಳೆಯನೆಸುವಂದು\nಮರಳಿ ವರಗಳನು ಕೊಡುವಂದು - ಸ್ಮರಹರೆಗೆ\nಸರಿಯಾರ ಕಾಣೆ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "c0df6b17a1b13b0833d518062a8f51415cb6d486126c33b1277a922d391f053f",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0072",
+      "source_number": 72,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 72,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಷಡುದರುಶನಾದಿಗಳು । ಮೃಡ ಮಾಡಲಾದುವು\nಹೊಡವಡುತೆ ನಿಗಮವರಿಸುವವು - ಅಭವನ\nಗಡಣಕೇಕೆ ಯಾರು ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "bb2fe7443a0bf4fb23b4f0026740408a6bf42f1737e07bf6d07092e47c1a4fc0",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0073",
+      "source_number": 73,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 73,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ದೇಶಕ್ಕೆ ಸಜ್ಜನನು । ಹಾಸ್ಯಕ್ಕೆ ಹನುಮಂತ\nಕೇಶವ ಭಕ್ತರೊಳಗೆಲ್ಲ - ಮೂರು ಕ\nಣ್ಣೇಶನೇ ದೈವ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "e6ce08fb8539a151efcba0e51f499c89013e80ba403c04b95d47fe4964ff89fd",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0074",
+      "source_number": 74,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 74,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಶೇಷನಿಂ ಬಲರಿಲ್ಲ । ಮೋಸದಿಂ ಕಳರೆಲ್ಲ\nನೇಸರೆಂ ಜಗಕೆ ಹಿತರಿಲ್ಲ - ದೇವ ತಾ\nಈಶನಿಂದಿಲ್ಲ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "e5ecaeed50b6df4c56b7f9b980c77a7952f4be45937f1beac535824bec4a6c46",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    },
+    {
+      "id": "CAND-0075",
+      "source_number": 75,
+      "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 75,
+          "section": "ಲಿಂಗಾತಿಶಯ ಪದ್ಧತಿ",
+          "text": "ಸಂಗದಿಂ ಕೆಳೆಯಿಲ್ಲ । ಬಿಂಗದಿಂ ಹೊರೆಯಿಲ್ಲ\nಗಂಗೆಯಿಂದಧಿಕ ನದಿಯಿಲ್ಲ - ಪರದೈವ\nಲಿಂಗದಿಂದಿಲ್ಲ ಸರ್ವಜ್ಞ",
+          "locator": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+          "fingerprint_sha256": "7fc41216d737e8b7d130f3ff077e65f8306d7e6c1413c5ea097279ff5341f687",
+          "source_license": "CC BY-SA (Wikisource work page)"
+        }
+      ],
+      "editorial_status": "research",
+      "publication_ready": false
+    }
+  ],
+  "comparisons": [],
+  "decisions": [],
+  "publications": []
+}

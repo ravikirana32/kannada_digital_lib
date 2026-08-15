@@ -1,0 +1,151 @@
+{
+  "version": "0.6.2",
+  "phase": "5B",
+  "records": [
+    {
+      "canonical_id": "SAR-0001",
+      "source_evidence": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 1,
+          "fingerprint": "aa64215ed724ca31727784696c5aba217edef996988cfff453702743f63beb3a"
+        },
+        {
+          "source_id": "SRC-005",
+          "source_number": null,
+          "fingerprint": "889bda101c8407615dc082c04b241904c0a495a614b5b049270286dc53839e6f"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 1,
+          "fingerprint": "9c4997021114dc0f4a8ad476db002768775eaadded2cf07e57b5bc3cf6864993"
+        }
+      ],
+      "historical_verification": {
+        "uttangi_1924": "not_verified_exact_scan_unavailable",
+        "uttangi_1957": "not_verified_page_level",
+        "paramartha_1980": "not_verified_page_level",
+        "wikisource": "source_reading_available",
+        "sanchaya": "reference_source_available"
+      },
+      "correspondence_status": "candidate_only",
+      "canonical_selection": "blocked",
+      "reason": "Historical/critical page-level evidence is incomplete; source number/order discrepancies were observed.",
+      "authenticity_status": "not_assessed",
+      "rights_status": "needs_review",
+      "editorial_status": "pending"
+    },
+    {
+      "canonical_id": "SAR-0002",
+      "source_evidence": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 2,
+          "fingerprint": "9606c230e2183b05a7d8e1b774f95b01d4eb9cf3b34edc9ee2b6d3488718d501"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 2,
+          "fingerprint": "24c40da7a2415e1ee3f021762b4e0266d2ae75ff91bc78e88b53893d2a3cc1ff"
+        }
+      ],
+      "historical_verification": {
+        "uttangi_1924": "not_verified_exact_scan_unavailable",
+        "uttangi_1957": "not_verified_page_level",
+        "paramartha_1980": "not_verified_page_level",
+        "wikisource": "source_reading_available",
+        "sanchaya": "reference_source_available"
+      },
+      "correspondence_status": "candidate_only",
+      "canonical_selection": "blocked",
+      "reason": "Historical/critical page-level evidence is incomplete; source number/order discrepancies were observed.",
+      "authenticity_status": "not_assessed",
+      "rights_status": "needs_review",
+      "editorial_status": "pending"
+    },
+    {
+      "canonical_id": "SAR-0003",
+      "source_evidence": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 3,
+          "fingerprint": "4742f732defe017c2ec1a4dffb2fc621334afc48c4055c29dbf94e519520f974"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 3,
+          "fingerprint": "d2f4ece2c714331a072bc24b4925bbcfcc05190572d315807e49694ff8b6e201"
+        }
+      ],
+      "historical_verification": {
+        "uttangi_1924": "not_verified_exact_scan_unavailable",
+        "uttangi_1957": "not_verified_page_level",
+        "paramartha_1980": "not_verified_page_level",
+        "wikisource": "source_reading_available",
+        "sanchaya": "reference_source_available"
+      },
+      "correspondence_status": "candidate_only",
+      "canonical_selection": "blocked",
+      "reason": "Historical/critical page-level evidence is incomplete; source number/order discrepancies were observed.",
+      "authenticity_status": "not_assessed",
+      "rights_status": "needs_review",
+      "editorial_status": "pending"
+    },
+    {
+      "canonical_id": "SAR-0004",
+      "source_evidence": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 4,
+          "fingerprint": "f7549df0410761b61d6767ba6b0bc1829fe7cc7b6a113f3f209839b7128ed629"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 4,
+          "fingerprint": "14b41b61bdf51a38d4a2cc5ec28b7f3581330be355196a6c45c78a18ea9ba440"
+        }
+      ],
+      "historical_verification": {
+        "uttangi_1924": "not_verified_exact_scan_unavailable",
+        "uttangi_1957": "not_verified_page_level",
+        "paramartha_1980": "not_verified_page_level",
+        "wikisource": "source_reading_available",
+        "sanchaya": "reference_source_available"
+      },
+      "correspondence_status": "candidate_only",
+      "canonical_selection": "blocked",
+      "reason": "Historical/critical page-level evidence is incomplete; source number/order discrepancies were observed.",
+      "authenticity_status": "not_assessed",
+      "rights_status": "needs_review",
+      "editorial_status": "pending"
+    },
+    {
+      "canonical_id": "SAR-0005",
+      "source_evidence": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 5,
+          "fingerprint": "571eb9849738f4fbe9ad2aa5aa9fccc9a2642594b158966d203ec4f2a0775ed9"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 5,
+          "fingerprint": "4cf55c92a2092ca2ae0e7b7197de53e262840a44209e4bb3ed88393de7c4c14a"
+        }
+      ],
+      "historical_verification": {
+        "uttangi_1924": "not_verified_exact_scan_unavailable",
+        "uttangi_1957": "not_verified_page_level",
+        "paramartha_1980": "not_verified_page_level",
+        "wikisource": "source_reading_available",
+        "sanchaya": "reference_source_available"
+      },
+      "correspondence_status": "candidate_only",
+      "canonical_selection": "blocked",
+      "reason": "Historical/critical page-level evidence is incomplete; source number/order discrepancies were observed.",
+      "authenticity_status": "not_assessed",
+      "rights_status": "needs_review",
+      "editorial_status": "pending"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "criteria": [
+    {
+      "id": "SRC",
+      "name": "Source text recorded"
+    },
+    {
+      "id": "MAP",
+      "name": "Cross-source correspondence established"
+    },
+    {
+      "id": "HIS",
+      "name": "Historical/critical evidence checked"
+    },
+    {
+      "id": "VAR",
+      "name": "Variants registered"
+    },
+    {
+      "id": "AUT",
+      "name": "Authenticity assessed"
+    },
+    {
+      "id": "RGT",
+      "name": "Rights/provenance reviewed"
+    },
+    {
+      "id": "EDT",
+      "name": "Editorial approval"
+    }
+  ],
+  "rule": "All applicable gates must pass before canonical approval."
+}

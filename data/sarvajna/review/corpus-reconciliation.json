@@ -1,0 +1,18 @@
+{
+  "version": "0.4.7",
+  "status": "research",
+  "sources": [
+    "SRC-001",
+    "SRC-002",
+    "SRC-003",
+    "SRC-004"
+  ],
+  "records": [],
+  "fields": {
+    "source_number": "Number as printed/listed by that source; never assume global numbering.",
+    "normalized_fingerprint": "Normalized-text fingerprint for match candidates.",
+    "match_class": "exact|near|variant|missing|duplicate|uncertain",
+    "canonical_decision": "Not set until source evidence and rights basis are documented.",
+    "confidence": "low|medium|high"
+  }
+}

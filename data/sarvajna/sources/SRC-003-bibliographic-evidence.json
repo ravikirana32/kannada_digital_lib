@@ -1,0 +1,31 @@
+{
+  "source_id": "SRC-003",
+  "edition": "1924",
+  "editor": "ಚನ್ನಪ್ಪ ಉತ್ತಂಗಿ",
+  "bibliographic_confidence": "high",
+  "scan_confidence": "not_established",
+  "rights_confidence": "not_established",
+  "evidence": [
+    {
+      "title": "ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ವಿಶ್ವಕೋಶ/ಚನ್ನಪ್ಪ, ಉತ್ತಂಗಿ",
+      "url": "https://kn.wikisource.org/wiki/ಮೈಸೂರು_ವಿಶ್ವವಿದ್ಯಾನಿಲಯ_ವಿಶ್ವಕೋಶ/ಚನ್ನಪ್ಪ,_ಉತ್ತಂಗಿ",
+      "supports": [
+        "1924 edition",
+        "1915-1924 editorial period",
+        "Mysore Government ownership/acquisition",
+        "multiple editions"
+      ]
+    },
+    {
+      "title": "Chennappa Uttangi — Shastriya Kannada",
+      "url": "https://shastriyakannada.org/database/english/scholars/CHENNAPPA%20UTTANGI%20HTML.htm",
+      "supports": [
+        "1924 edition",
+        "1928 poems",
+        "three categories",
+        "32 paddhatis"
+      ]
+    }
+  ],
+  "discovery_status": "exact_scan_not_located"
+}

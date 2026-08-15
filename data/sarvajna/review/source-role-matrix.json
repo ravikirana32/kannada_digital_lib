@@ -1,0 +1,30 @@
+{
+  "version": "0.4.7",
+  "sources": [
+    {
+      "source_id": "SRC-001",
+      "role": "historical_reference",
+      "canonical_candidate": false,
+      "redistribution": false
+    },
+    {
+      "source_id": "SRC-002",
+      "role": "machine_readable_reference",
+      "canonical_candidate": false,
+      "redistribution": "license_obligations"
+    },
+    {
+      "source_id": "SRC-003",
+      "role": "historical_edition_candidate",
+      "canonical_candidate": true,
+      "redistribution": "legal_verification_required"
+    },
+    {
+      "source_id": "SRC-004",
+      "role": "critical_scholarly_reference",
+      "canonical_candidate": false,
+      "redistribution": false
+    }
+  ],
+  "principle": "A source may be authoritative for comparison without being the source from which we redistribute text."
+}

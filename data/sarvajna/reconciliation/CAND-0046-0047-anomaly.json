@@ -1,0 +1,9 @@
+{
+  "candidates": [
+    "CAND-0046",
+    "CAND-0047"
+  ],
+  "status": "needs_historical_check",
+  "reason": "Source readings are highly similar and must be checked against independent/historical editions before merge or separation.",
+  "canonical_decision": null
+}

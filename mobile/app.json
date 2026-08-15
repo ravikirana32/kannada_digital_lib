@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ಸರ್ವಜ್ಞ ಡಿಜಿಟಲ್ ಗ್ರಂಥಾಲಯ",
+    "slug": "sarvajna-digital-library",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "sarvajna",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

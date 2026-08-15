@@ -1,0 +1,21 @@
+{
+  "phase": "6",
+  "version": "0.8.0",
+  "status": "complete_engineering_release_content_collection_in_progress",
+  "date": "2026-08-15",
+  "scope": "Complete Sarvagna corpus acquisition, reconciliation, deduplication, verification and canonicalization pipeline",
+  "completed": [
+    "corpus acquisition manifest",
+    "batch processing model",
+    "source coverage tracking",
+    "candidate discovery records",
+    "duplicate/correspondence model",
+    "canonical promotion gate",
+    "missing-number detection",
+    "variant preservation",
+    "corpus progress reporting",
+    "Phase 6 validation"
+  ],
+  "content_status": "No verse is declared canonical merely because it was discovered in a digital source.",
+  "next_content_work": "Populate batches from verified source material, starting with the first 14 and then expanding systematically."
+}

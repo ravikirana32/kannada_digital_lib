@@ -1,0 +1,6 @@
+const express=require("express");const {Comparison}=require("../models");const {authenticate}=require("../auth/auth");const {requirePermission}=require("../auth/rbac");
+const router=express.Router();router.use(authenticate);
+router.get("/",requirePermission("comparison:read"),async(req,res)=>{const where=req.query.candidate_id?{candidate_id:req.query.candidate_id}:{};res.json(await Comparison.findAll({where,order:[["created_at","DESC"]]}))});
+router.post("/",requirePermission("comparison:create"),async(req,res)=>{const b=req.body||{};if(!b.candidate_id)return res.status(400).json({error:"candidate_id_required"});const item=await Comparison.create({candidate_id:b.candidate_id,sources:b.sources||[],comparison_result:b.comparison_result||"pending",canonical_candidate:b.canonical_candidate||"",variant_notes:b.variant_notes||[],gates:b.gates||{},reviewer_note:b.reviewer_note||""});res.status(201).json(item)});
+router.post("/:id/approve",requirePermission("comparison:approve"),async(req,res)=>{const item=await Comparison.findByPk(req.params.id);if(!item)return res.status(404).json({error:"not_found"});await item.update({comparison_result:"approved"});res.json(item)});
+module.exports=router;

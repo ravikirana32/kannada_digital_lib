@@ -1,0 +1,12 @@
+{
+  "statuses": [
+    "not_assessed",
+    "historically_supported",
+    "source_attested",
+    "variant_attested",
+    "disputed",
+    "possible_interpolation",
+    "excluded_pending_review"
+  ],
+  "rule": "Authenticity is separate from textual matching and copyright status."
+}

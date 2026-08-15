@@ -1,0 +1,60 @@
+{
+  "version": "0.6.2",
+  "records": [
+    {
+      "canonical_id": "SAR-0001",
+      "status": "blocked",
+      "canonical_text": "",
+      "canonical_text_source": "not_selected",
+      "variant_policy": "preserve_all_source_readings",
+      "authenticity": "not_assessed",
+      "rights": "needs_review",
+      "editorial_approval": false,
+      "bhavartha_ready": false
+    },
+    {
+      "canonical_id": "SAR-0002",
+      "status": "blocked",
+      "canonical_text": "",
+      "canonical_text_source": "not_selected",
+      "variant_policy": "preserve_all_source_readings",
+      "authenticity": "not_assessed",
+      "rights": "needs_review",
+      "editorial_approval": false,
+      "bhavartha_ready": false
+    },
+    {
+      "canonical_id": "SAR-0003",
+      "status": "blocked",
+      "canonical_text": "",
+      "canonical_text_source": "not_selected",
+      "variant_policy": "preserve_all_source_readings",
+      "authenticity": "not_assessed",
+      "rights": "needs_review",
+      "editorial_approval": false,
+      "bhavartha_ready": false
+    },
+    {
+      "canonical_id": "SAR-0004",
+      "status": "blocked",
+      "canonical_text": "",
+      "canonical_text_source": "not_selected",
+      "variant_policy": "preserve_all_source_readings",
+      "authenticity": "not_assessed",
+      "rights": "needs_review",
+      "editorial_approval": false,
+      "bhavartha_ready": false
+    },
+    {
+      "canonical_id": "SAR-0005",
+      "status": "blocked",
+      "canonical_text": "",
+      "canonical_text_source": "not_selected",
+      "variant_policy": "preserve_all_source_readings",
+      "authenticity": "not_assessed",
+      "rights": "needs_review",
+      "editorial_approval": false,
+      "bhavartha_ready": false
+    }
+  ]
+}

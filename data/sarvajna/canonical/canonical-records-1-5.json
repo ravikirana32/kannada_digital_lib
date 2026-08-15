@@ -1,0 +1,284 @@
+{
+  "version": "0.6.1",
+  "phase": "5A",
+  "records": [
+    {
+      "canonical_id": "SAR-0001",
+      "author": "ಸರ್ವಜ್ಞ",
+      "source_evidence": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 1,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "locator": "Wikisource current page",
+          "text": "ಮುನ್ನ ಪೂರ್ವದಲಾನು । ಪನ್ನಗಧರನಾಳು\nಎನ್ನಯ ಪೆಸರು ಪುಷ್ಪದತ್ತನು-ಎಂದು\nಮನ್ನಿಪರು ನೋಡ ಸರ್ವಜ್ಞ",
+          "fingerprint": "aa64215ed724ca31727784696c5aba217edef996988cfff453702743f63beb3a"
+        },
+        {
+          "source_id": "SRC-005",
+          "source_number": null,
+          "section": null,
+          "locator": "Sanchaya/searchable online tradition; source numbering not established",
+          "text": "ನಂದಿಯನು ಏರಿದನ । ಚಂದಿರನ ಸೂಡಿದನ ।\nಕಂದನನು ಬೇಡಿ ನಲಿದಾನು ನೆನೆವುತ್ತ ।\nಮುಂದೆ ಪೇಳುವೆನು ಸರ್ವಜ್ಞ",
+          "fingerprint": "889bda101c8407615dc082c04b241904c0a495a614b5b049270286dc53839e6f"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 1,
+          "section": null,
+          "locator": "Kannadavesatya transcription",
+          "text": "ನಂದಿಯನು ಏರಿದನ\nಚಂದಿರನ ಮುಡಿದವನ ಕಂದನಂ ಬೇಡಿ ನೆನೆವುತ್ತ\nಮುಂದೆ ಹೇಳುವೆನು ಸರ್ವಜ್ಞ",
+          "fingerprint": "9c4997021114dc0f4a8ad476db002768775eaadded2cf07e57b5bc3cf6864993"
+        }
+      ],
+      "canonical_text": {
+        "status": "pending",
+        "text": "",
+        "line_breaks": "tripadi_preserved"
+      },
+      "variants": [],
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "bhavartha": {
+        "status": "blocked_until_canonical_text_approved",
+        "text": ""
+      },
+      "rights": {
+        "status": "needs_review",
+        "basis": [],
+        "notes": ""
+      },
+      "editorial": {
+        "status": "research",
+        "reviewer": "",
+        "review_notes": []
+      },
+      "publication": {
+        "approved": false,
+        "reason": "Awaiting historical/critical source verification and editorial approval."
+      },
+      "social": {
+        "youtube_ready": false,
+        "reels_ready": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0002",
+      "author": "ಸರ್ವಜ್ಞ",
+      "source_evidence": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 2,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "locator": "Wikisource current page",
+          "text": "ಅಂದಿನಾ । ಪುಷ್ಪದತ್ತ ॥ ಬಂದ ವರರುಚಿಯಾಗಿ\nಮುಂ ದೇವಸಾಲೆ ಸರ್ವಜ್ಞ - ನೆಂದೆನಿಸಿ\nನಿಂದವನು ತಾನೇ ಸರ್ವಜ್ಞ",
+          "fingerprint": "9606c230e2183b05a7d8e1b774f95b01d4eb9cf3b34edc9ee2b6d3488718d501"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 2,
+          "section": null,
+          "locator": "Kannadavesatya transcription",
+          "text": "ಮುನ್ನ ಕಾಲದಲಿ ಪನ್ನಗಧರನಾಳು\nಎನ್ನೆಯ ಪೆಸರು, ಪುಷ್ಪದತ್ತನು ಎಂದು\nಮನಿಪರು ದಯದಿ ಸರ್ವಜ್ಞ",
+          "fingerprint": "24c40da7a2415e1ee3f021762b4e0266d2ae75ff91bc78e88b53893d2a3cc1ff"
+        }
+      ],
+      "canonical_text": {
+        "status": "pending",
+        "text": "",
+        "line_breaks": "tripadi_preserved"
+      },
+      "variants": [],
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "bhavartha": {
+        "status": "blocked_until_canonical_text_approved",
+        "text": ""
+      },
+      "rights": {
+        "status": "needs_review",
+        "basis": [],
+        "notes": ""
+      },
+      "editorial": {
+        "status": "research",
+        "reviewer": "",
+        "review_notes": []
+      },
+      "publication": {
+        "approved": false,
+        "reason": "Awaiting historical/critical source verification and editorial approval."
+      },
+      "social": {
+        "youtube_ready": false,
+        "reels_ready": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0003",
+      "author": "ಸರ್ವಜ್ಞ",
+      "source_evidence": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 3,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "locator": "Wikisource current page",
+          "text": "ಮಕ್ಕಳಿಲ್ಲವು ಎಂದು । ಅಕ್ಕಮಲ್ಲಮ್ಮನು\nದುಕ್ಕದಿ ಬಸವ । ಗರಿಪಲ್ಲವ । - ಕಾಶಿಯ\nಮುಕ್ಕಣ್ಣಗೆ ಹೋದ ಸರ್ವಜ್ಞ",
+          "fingerprint": "4742f732defe017c2ec1a4dffb2fc621334afc48c4055c29dbf94e519520f974"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 3,
+          "section": null,
+          "locator": "Kannadavesatya transcription",
+          "text": "ಅಂದಿನ ಪುಷ್ಪದತ್ತ ಬಂದ ವರರುಚಿಯಾಗಿ\nಮುದವ ಸಾರೆ, ಸರ್ವಜ್ಞನೆಂದೆನಿಸಿ\nನಿಂದವನು ನಾನೆ ಸರ್ವಜ್ಞ",
+          "fingerprint": "d2f4ece2c714331a072bc24b4925bbcfcc05190572d315807e49694ff8b6e201"
+        }
+      ],
+      "canonical_text": {
+        "status": "pending",
+        "text": "",
+        "line_breaks": "tripadi_preserved"
+      },
+      "variants": [],
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "bhavartha": {
+        "status": "blocked_until_canonical_text_approved",
+        "text": ""
+      },
+      "rights": {
+        "status": "needs_review",
+        "basis": [],
+        "notes": ""
+      },
+      "editorial": {
+        "status": "research",
+        "reviewer": "",
+        "review_notes": []
+      },
+      "publication": {
+        "approved": false,
+        "reason": "Awaiting historical/critical source verification and editorial approval."
+      },
+      "social": {
+        "youtube_ready": false,
+        "reels_ready": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0004",
+      "author": "ಸರ್ವಜ್ಞ",
+      "source_evidence": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 4,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "locator": "Wikisource current page",
+          "text": "ಮಾಸನೂರ ಬಸವರಸ । ಕೊಸನಿಶನ ಕೇಳಲು\nಕಾಶಿಯೀಶನೊಳು ಪಡೆದ ವರ - ವಧು ನಡುವೆ\nಸೂಸಿತೆಂತಲು ಸರ್ವಜ್ಞ",
+          "fingerprint": "f7549df0410761b61d6767ba6b0bc1829fe7cc7b6a113f3f209839b7128ed629"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 4,
+          "section": null,
+          "locator": "Kannadavesatya transcription",
+          "text": "ಸಣ್ಣನೆಯ ಮಳಲೊಳಗೆ ನುಣ್ಣನೆಯ ಶಿಲೆಯೊಳಗೆ\nಬಣ್ಣೆಸಿಬರೆದ ಪಟದೊಳಗೆಯಿರುವಾತ\nತಣ್ಣೊಳಗೆ ಇರನೇ ಸರ್ವಜ್ಞ",
+          "fingerprint": "14b41b61bdf51a38d4a2cc5ec28b7f3581330be355196a6c45c78a18ea9ba440"
+        }
+      ],
+      "canonical_text": {
+        "status": "pending",
+        "text": "",
+        "line_breaks": "tripadi_preserved"
+      },
+      "variants": [],
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "bhavartha": {
+        "status": "blocked_until_canonical_text_approved",
+        "text": ""
+      },
+      "rights": {
+        "status": "needs_review",
+        "basis": [],
+        "notes": ""
+      },
+      "editorial": {
+        "status": "research",
+        "reviewer": "",
+        "review_notes": []
+      },
+      "publication": {
+        "approved": false,
+        "reason": "Awaiting historical/critical source verification and editorial approval."
+      },
+      "social": {
+        "youtube_ready": false,
+        "reels_ready": false
+      }
+    },
+    {
+      "canonical_id": "SAR-0005",
+      "author": "ಸರ್ವಜ್ಞ",
+      "source_evidence": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 5,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "locator": "Wikisource current page",
+          "text": "ಗಂಡಾಗಬೇಕೆಂದು । ಪಿರಿಂಡವ ನುಂಗಲು\nಲಂಡೆ ಮಾಳ್ವೆಯೊಳು ಜನಿಸಿ - ಲೋಕದೊಳು\nಕಂಡುದನೆ ಪೇಳ್ವೆ ಸರ್ವಜ್ಞ",
+          "fingerprint": "571eb9849738f4fbe9ad2aa5aa9fccc9a2642594b158966d203ec4f2a0775ed9"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 5,
+          "section": null,
+          "locator": "Kannadavesatya transcription",
+          "text": "ಹೊಲಸು ಮಾಂಸದ ಹುತ್ತ ಎಲುವಿನಾ ಹಂದರವು\nಬಲಸು ರಕ್ತದ ಚರ್ಮದ ತೊಗಲು\nಒಳಗಿರುವಾತ ಸರ್ವಜ್ಞ",
+          "fingerprint": "4cf55c92a2092ca2ae0e7b7197de53e262840a44209e4bb3ed88393de7c4c14a"
+        }
+      ],
+      "canonical_text": {
+        "status": "pending",
+        "text": "",
+        "line_breaks": "tripadi_preserved"
+      },
+      "variants": [],
+      "authenticity": {
+        "status": "not_assessed",
+        "evidence": []
+      },
+      "bhavartha": {
+        "status": "blocked_until_canonical_text_approved",
+        "text": ""
+      },
+      "rights": {
+        "status": "needs_review",
+        "basis": [],
+        "notes": ""
+      },
+      "editorial": {
+        "status": "research",
+        "reviewer": "",
+        "review_notes": []
+      },
+      "publication": {
+        "approved": false,
+        "reason": "Awaiting historical/critical source verification and editorial approval."
+      },
+      "social": {
+        "youtube_ready": false,
+        "reels_ready": false
+      }
+    }
+  ]
+}

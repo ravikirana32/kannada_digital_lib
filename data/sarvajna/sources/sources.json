@@ -29,6 +29,59 @@
       "reliability_notes": "Useful machine-readable/reference corpus with numbered Tripadis and topical sections. Cross-check against a source edition before publication.",
       "added_by": "project",
       "added_at": "2026-08-13"
+    },
+    {
+      "source_id": "SRC-003",
+      "title": "ಸರ್ವಜ್ಞ ವಚನಗಳು",
+      "editor": "ಚನ್ನಪ್ಪ ಉತ್ತಂಗಿ",
+      "publication_year": 1924,
+      "source_type": "historical_edition_candidate",
+      "url": "",
+      "locator_format": "printed page / section / verse number",
+      "rights_status": "candidate_public_domain_india_needs_legal_verification",
+      "rights_notes": "Official Indian Copyright Office materials state that published literary works generally receive life-of-author + 60 years. Scholarly sources identify Uttangi as editor of the 1924 edition and state he died in 1962. This makes expiry in India a strong candidate conclusion, but the project must verify the rights chain, edition status, any government ownership/assignment, and jurisdiction before treating this edition as unrestricted.",
+      "verification_status": "bibliographically_confirmed_scan_not_found",
+      "reliability_notes": "Bibliographic evidence is strong; exact 1924 scan/page text not yet located.",
+      "added_by": "project",
+      "added_at": "2026-08-15",
+      "notes": "Exact 1924 digitized copy not located in today's web search. Do not substitute a later reprint. Historical bibliographic evidence is strong, but the actual 1924 source must be located or otherwise bibliographically verified."
+    },
+    {
+      "source_id": "SRC-004",
+      "title": "ಪಾರಮಾರ್ಥ — ಸರ್ವಜ್ಞನ ವಚನಗಳು",
+      "editor": "ಡಾ. ಎಲ್. ಬಸವರಾಜು",
+      "publication_year": 1980,
+      "source_type": "scholarly_critical_reference",
+      "url": "",
+      "locator_format": "edition page / poem number",
+      "rights_status": "reference_only_needs_review",
+      "rights_notes": "Modern scholarly edition. Do not redistribute text from this source without permission or an independently established rights basis.",
+      "verification_status": "discovery_reference",
+      "reliability_notes": "Useful for textual criticism and identifying variants/interpolations. Secondary scholarship reports 948 + 54 accepted poems and discusses multiple available versions.",
+      "added_by": "project",
+      "added_at": "2026-08-15"
+    },
+    {
+      "source_id": "SRC-005",
+      "title": "ಸರ್ವಜ್ಞ ಸಂಚಯ",
+      "editor": null,
+      "publication_year": null,
+      "source_type": "digital_discovery_reference",
+      "url": "https://sarvajna.sanchaya.net/poems",
+      "rights_status": "reference_only_needs_review",
+      "verification_status": "discovery_reference",
+      "reliability_notes": "Searchable digital collection useful for discovering text and alternative numbering. Not treated as canonical or redistribution authority.",
+      "added_at": "2026-08-15"
+    },
+    {
+      "source_id": "WEB-ALT-001",
+      "title": "Kannadavesatya — Sarvagna Vachana 1",
+      "source_type": "online_secondary_transcription",
+      "url": "https://kannadavesatya.wordpress.com/2011/12/07/sarvagna2/",
+      "rights_status": "reference_only_needs_review",
+      "verification_status": "text_observed",
+      "role": "ordering_and_variant_reference",
+      "notes": "Used only to demonstrate alternate ordering/readings; not treated as canonical or redistribution authority."
     }
   ]
 }

@@ -1,0 +1,1 @@
+const {DataTypes}=require("sequelize");module.exports=(s)=>s.define("User",{id:{type:DataTypes.STRING,primaryKey:true},email:{type:DataTypes.STRING,unique:true,allowNull:false},role:{type:DataTypes.STRING,allowNull:false},password_hash:{type:DataTypes.STRING,allowNull:false},active:{type:DataTypes.BOOLEAN,defaultValue:true}},{tableName:"users",underscored:true});

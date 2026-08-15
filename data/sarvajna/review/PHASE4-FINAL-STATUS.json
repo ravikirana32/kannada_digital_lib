@@ -1,0 +1,33 @@
+{
+  "phase": "4",
+  "version": "0.6.0",
+  "status": "engineering_complete_content_verification_gated",
+  "date": "2026-08-15",
+  "scope": "Sarvajna Tripadi corpus foundation, source reconciliation, and pilot 1-14",
+  "completed": [
+    "edition registry",
+    "source registry",
+    "source-specific numbering",
+    "source acquisition manifest",
+    "Kannada normalization and fingerprints",
+    "pairwise text comparison",
+    "variant register",
+    "authenticity register",
+    "corpus reconciliation model",
+    "publication approval gate",
+    "pilot 1-5 actual source readings",
+    "pilot 1-5 first reconciliation",
+    "historical verification ledger 1-14",
+    "rights matrix and source provenance model"
+  ],
+  "blocked_gates": [
+    "exact 1924 Uttangi scan/page verification",
+    "Paramartha page-level verification for pilot records",
+    "1957 scan visual verification where OCR is unreliable",
+    "final authenticity decisions",
+    "final rights/legal review",
+    "canonical text approval",
+    "bhavartha generation for approved records"
+  ],
+  "policy": "Do not mark a record approved until text, rights, and editorial gates all pass."
+}

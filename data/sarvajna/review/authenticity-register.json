@@ -1,0 +1,14 @@
+{
+  "version": "0.5.3",
+  "records": [],
+  "statuses": [
+    "not_assessed",
+    "source_attested",
+    "historically_supported",
+    "variant_attested",
+    "disputed",
+    "possible_interpolation",
+    "excluded_pending_review"
+  ],
+  "rule": "Authenticity is an editorial/historical judgment, independent of text similarity."
+}

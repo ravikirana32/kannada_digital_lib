@@ -1,0 +1,60 @@
+{
+  "version": "0.4.7",
+  "tripadis": [
+    {
+      "tripadi_number": 1,
+      "sources": {
+        "SRC-001": "located_ocr_visual_pending",
+        "SRC-002": "checked",
+        "SRC-003": "not_yet_located",
+        "SRC-004": "not_yet_located"
+      },
+      "status": "reconciliation_pending",
+      "canonical_decision": null
+    },
+    {
+      "tripadi_number": 2,
+      "sources": {
+        "SRC-001": "located_ocr_visual_pending",
+        "SRC-002": "checked",
+        "SRC-003": "not_yet_located",
+        "SRC-004": "not_yet_located"
+      },
+      "status": "reconciliation_pending",
+      "canonical_decision": null
+    },
+    {
+      "tripadi_number": 3,
+      "sources": {
+        "SRC-001": "located_ocr_visual_pending",
+        "SRC-002": "checked",
+        "SRC-003": "not_yet_located",
+        "SRC-004": "not_yet_located"
+      },
+      "status": "reconciliation_pending",
+      "canonical_decision": null
+    },
+    {
+      "tripadi_number": 4,
+      "sources": {
+        "SRC-001": "located_ocr_visual_pending",
+        "SRC-002": "checked",
+        "SRC-003": "not_yet_located",
+        "SRC-004": "not_yet_located"
+      },
+      "status": "reconciliation_pending",
+      "canonical_decision": null
+    },
+    {
+      "tripadi_number": 5,
+      "sources": {
+        "SRC-001": "located_ocr_visual_pending",
+        "SRC-002": "checked",
+        "SRC-003": "not_yet_located",
+        "SRC-004": "not_yet_located"
+      },
+      "status": "reconciliation_pending",
+      "canonical_decision": null
+    }
+  ]
+}

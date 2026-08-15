@@ -1,0 +1,160 @@
+{
+  "version": "0.5.4",
+  "date": "2026-08-15",
+  "records": [
+    {
+      "canonical_id": "SAR-0001",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 1,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮುನ್ನ ಪೂರ್ವದಲಾನು । ಪನ್ನಗಧರನಾಳು\nಎನ್ನಯ ಪೆಸರು ಪುಷ್ಪದತ್ತನು-ಎಂದು\nಮನ್ನಿಪರು ನೋಡ ಸರ್ವಜ್ಞ",
+          "locator": "Wikisource current page",
+          "normalized_sha256": "aa64215ed724ca31727784696c5aba217edef996988cfff453702743f63beb3a",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "SRC-005",
+          "source_number": null,
+          "section": null,
+          "text": "ನಂದಿಯನು ಏರಿದನ । ಚಂದಿರನ ಸೂಡಿದನ ।\nಕಂದನನು ಬೇಡಿ ನಲಿದಾನು ನೆನೆವುತ್ತ ।\nಮುಂದೆ ಪೇಳುವೆನು ಸರ್ವಜ್ಞ",
+          "locator": "Sanchaya/searchable online tradition; source numbering not established",
+          "normalized_sha256": "889bda101c8407615dc082c04b241904c0a495a614b5b049270286dc53839e6f",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 1,
+          "section": null,
+          "text": "ನಂದಿಯನು ಏರಿದನ\nಚಂದಿರನ ಮುಡಿದವನ ಕಂದನಂ ಬೇಡಿ ನೆನೆವುತ್ತ\nಮುಂದೆ ಹೇಳುವೆನು ಸರ್ವಜ್ಞ",
+          "locator": "Kannadavesatya transcription",
+          "normalized_sha256": "9c4997021114dc0f4a8ad476db002768775eaadded2cf07e57b5bc3cf6864993",
+          "text_status": "source_reading"
+        }
+      ],
+      "finding": "Multiple online traditions differ in both ordering and wording. No canonical decision.",
+      "match_class": "ordering_or_corpus_variant",
+      "canonical_text_status": "not_set",
+      "authenticity_status": "not_assessed",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0002",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 2,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಅಂದಿನಾ । ಪುಷ್ಪದತ್ತ ॥ ಬಂದ ವರರುಚಿಯಾಗಿ\nಮುಂ ದೇವಸಾಲೆ ಸರ್ವಜ್ಞ - ನೆಂದೆನಿಸಿ\nನಿಂದವನು ತಾನೇ ಸರ್ವಜ್ಞ",
+          "locator": "Wikisource current page",
+          "normalized_sha256": "9606c230e2183b05a7d8e1b774f95b01d4eb9cf3b34edc9ee2b6d3488718d501",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 2,
+          "section": null,
+          "text": "ಮುನ್ನ ಕಾಲದಲಿ ಪನ್ನಗಧರನಾಳು\nಎನ್ನೆಯ ಪೆಸರು, ಪುಷ್ಪದತ್ತನು ಎಂದು\nಮನಿಪರು ದಯದಿ ಸರ್ವಜ್ಞ",
+          "locator": "Kannadavesatya transcription",
+          "normalized_sha256": "24c40da7a2415e1ee3f021762b4e0266d2ae75ff91bc78e88b53893d2a3cc1ff",
+          "text_status": "source_reading"
+        }
+      ],
+      "finding": "Ordering differs: Wikisource item 2 is the Vararuchi verse, while an independent transcription places the Pushpadatta verse at item 2.",
+      "match_class": "ordering_or_corpus_variant",
+      "canonical_text_status": "not_set",
+      "authenticity_status": "not_assessed",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0003",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 3,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮಕ್ಕಳಿಲ್ಲವು ಎಂದು । ಅಕ್ಕಮಲ್ಲಮ್ಮನು\nದುಕ್ಕದಿ ಬಸವ । ಗರಿಪಲ್ಲವ । - ಕಾಶಿಯ\nಮುಕ್ಕಣ್ಣಗೆ ಹೋದ ಸರ್ವಜ್ಞ",
+          "locator": "Wikisource current page",
+          "normalized_sha256": "4742f732defe017c2ec1a4dffb2fc621334afc48c4055c29dbf94e519520f974",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 3,
+          "section": null,
+          "text": "ಅಂದಿನ ಪುಷ್ಪದತ್ತ ಬಂದ ವರರುಚಿಯಾಗಿ\nಮುದವ ಸಾರೆ, ಸರ್ವಜ್ಞನೆಂದೆನಿಸಿ\nನಿಂದವನು ನಾನೆ ಸರ್ವಜ್ಞ",
+          "locator": "Kannadavesatya transcription",
+          "normalized_sha256": "d2f4ece2c714331a072bc24b4925bbcfcc05190572d315807e49694ff8b6e201",
+          "text_status": "source_reading"
+        }
+      ],
+      "finding": "Strong numbering/order mismatch; do not equate source number 3 across sources.",
+      "match_class": "ordering_or_corpus_variant",
+      "canonical_text_status": "not_set",
+      "authenticity_status": "not_assessed",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0004",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 4,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಮಾಸನೂರ ಬಸವರಸ । ಕೊಸನಿಶನ ಕೇಳಲು\nಕಾಶಿಯೀಶನೊಳು ಪಡೆದ ವರ - ವಧು ನಡುವೆ\nಸೂಸಿತೆಂತಲು ಸರ್ವಜ್ಞ",
+          "locator": "Wikisource current page",
+          "normalized_sha256": "f7549df0410761b61d6767ba6b0bc1829fe7cc7b6a113f3f209839b7128ed629",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 4,
+          "section": null,
+          "text": "ಸಣ್ಣನೆಯ ಮಳಲೊಳಗೆ ನುಣ್ಣನೆಯ ಶಿಲೆಯೊಳಗೆ\nಬಣ್ಣೆಸಿಬರೆದ ಪಟದೊಳಗೆಯಿರುವಾತ\nತಣ್ಣೊಳಗೆ ಇರನೇ ಸರ್ವಜ್ಞ",
+          "locator": "Kannadavesatya transcription",
+          "normalized_sha256": "14b41b61bdf51a38d4a2cc5ec28b7f3581330be355196a6c45c78a18ea9ba440",
+          "text_status": "source_reading"
+        }
+      ],
+      "finding": "Number 4 differs completely between the two traditions.",
+      "match_class": "ordering_or_corpus_variant",
+      "canonical_text_status": "not_set",
+      "authenticity_status": "not_assessed",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    },
+    {
+      "canonical_id": "SAR-0005",
+      "source_readings": [
+        {
+          "source_id": "SRC-002",
+          "source_number": 5,
+          "section": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ",
+          "text": "ಗಂಡಾಗಬೇಕೆಂದು । ಪಿರಿಂಡವ ನುಂಗಲು\nಲಂಡೆ ಮಾಳ್ವೆಯೊಳು ಜನಿಸಿ - ಲೋಕದೊಳು\nಕಂಡುದನೆ ಪೇಳ್ವೆ ಸರ್ವಜ್ಞ",
+          "locator": "Wikisource current page",
+          "normalized_sha256": "571eb9849738f4fbe9ad2aa5aa9fccc9a2642594b158966d203ec4f2a0775ed9",
+          "text_status": "source_reading"
+        },
+        {
+          "source_id": "WEB-ALT-001",
+          "source_number": 5,
+          "section": null,
+          "text": "ಹೊಲಸು ಮಾಂಸದ ಹುತ್ತ ಎಲುವಿನಾ ಹಂದರವು\nಬಲಸು ರಕ್ತದ ಚರ್ಮದ ತೊಗಲು\nಒಳಗಿರುವಾತ ಸರ್ವಜ್ಞ",
+          "locator": "Kannadavesatya transcription",
+          "normalized_sha256": "4cf55c92a2092ca2ae0e7b7197de53e262840a44209e4bb3ed88393de7c4c14a",
+          "text_status": "source_reading"
+        }
+      ],
+      "finding": "Number 5 differs completely between the two traditions.",
+      "match_class": "ordering_or_corpus_variant",
+      "canonical_text_status": "not_set",
+      "authenticity_status": "not_assessed",
+      "rights_status": "needs_review",
+      "editorial_status": "research"
+    }
+  ]
+}

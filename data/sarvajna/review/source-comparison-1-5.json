@@ -1,0 +1,54 @@
+{
+  "date": "2026-08-15",
+  "source_a": "SRC-001",
+  "source_b": "SRC-002",
+  "source_a_rights": "IN_COPYRIGHT",
+  "method": "Archive OCR + Wikisource text; OCR is diagnostic only",
+  "records": [
+    {
+      "tripadi_number": 1,
+      "src001_pdf_page": 10,
+      "src001_status": "ocr_unreliable",
+      "src001_diagnostic": "ಮುನ್ನ ಕ್ರೈಲಾಸದಲಿ ... ಪುಷ್ಪ ದತ್ತನು",
+      "src002_status": "text_checked",
+      "finding": "major apparent wording difference; could be OCR corruption or edition/reading variant",
+      "action": "visual page verification required"
+    },
+    {
+      "tripadi_number": 2,
+      "src001_pdf_page": 10,
+      "src001_status": "ocr_unreliable",
+      "src001_diagnostic": "ಅಂದಿನ ಪೂದತ್ತ ... ವರರುಚಿಯಾಗಿ",
+      "src002_status": "text_checked",
+      "finding": "likely OCR corruption in names/words; cannot establish canonical reading from OCR alone",
+      "action": "visual page verification required"
+    },
+    {
+      "tripadi_number": 3,
+      "src001_pdf_page": 10,
+      "src001_status": "ocr_unreliable",
+      "src001_diagnostic": "ಮಹಶ್ಟಳಿಲ್ಲವು ಎಂದು ... ಅಕ್ಸುಮಲ್ಲವ್ಮೂನು",
+      "src002_status": "text_checked",
+      "finding": "OCR heavily corrupted; no safe textual comparison",
+      "action": "visual page verification required"
+    },
+    {
+      "tripadi_number": 4,
+      "src001_pdf_page": 11,
+      "src001_status": "ocr_unreliable",
+      "src001_diagnostic": "ಮಾಸೂರ ಬಸವರಸ ... ಕೂಸನೀಶನ",
+      "src002_status": "text_checked",
+      "finding": "name/word OCR differences; likely needs image-level reading",
+      "action": "visual page verification required"
+    },
+    {
+      "tripadi_number": 5,
+      "src001_pdf_page": 11,
+      "src001_status": "ocr_unreliable",
+      "src001_diagnostic": "ಗಂಡಾಗಬೇಕೆಂದು ... ಪಿಂಡವನು ನುಂಗಲದು",
+      "src002_status": "text_checked",
+      "finding": "OCR differs in several words; visual verification required",
+      "action": "visual page verification required"
+    }
+  ]
+}

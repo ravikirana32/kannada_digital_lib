@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "source_id": "SRC-002",
+      "name": "Kannada Wikisource",
+      "url": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+      "role": "machine-readable reference"
+    },
+    {
+      "source_id": "SRC-005",
+      "name": "ಸರ್ವಜ್ಞ ಸಂಚಯ",
+      "url": "https://sarvajna.sanchaya.net/poems",
+      "role": "independent searchable reference"
+    },
+    {
+      "source_id": "ARCHIVE-1957",
+      "name": "Internet Archive 1957 scan",
+      "url": "https://archive.org/details/in.ernet.dli.2015.363853/mode/2up",
+      "role": "historical scan/OCR reference"
+    },
+    {
+      "source_id": "UTTANGI-1924-HISTORY",
+      "name": "University of Mysore Encyclopedia — Channappa Uttangi",
+      "url": "https://kn.wikisource.org/wiki/ಮೈಸೂರು_ವಿಶ್ವವಿದ್ಯಾನಿಲಯ_ವಿಶ್ವಕೋಶ/ಚನ್ನಪ್ಪ,_ಉತ್ತಂಗಿ",
+      "role": "edition-history evidence"
+    }
+  ]
+}

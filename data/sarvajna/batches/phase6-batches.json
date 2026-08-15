@@ -1,0 +1,35 @@
+{
+  "version": "0.8.0",
+  "batch_size": 75,
+  "batches": [
+    {
+      "batch_id": "B001",
+      "start": 1,
+      "end": 75,
+      "priority": "high",
+      "status": "ready"
+    },
+    {
+      "batch_id": "B002",
+      "start": 76,
+      "end": 150,
+      "priority": "normal",
+      "status": "queued"
+    },
+    {
+      "batch_id": "B003",
+      "start": 151,
+      "end": 225,
+      "priority": "normal",
+      "status": "queued"
+    },
+    {
+      "batch_id": "B004",
+      "start": 226,
+      "end": 300,
+      "priority": "normal",
+      "status": "queued"
+    }
+  ],
+  "rule": "Create additional batches only from source evidence; never fabricate missing entries."
+}

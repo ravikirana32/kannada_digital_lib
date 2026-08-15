@@ -1,0 +1,170 @@
+{
+  "version": "0.5.0",
+  "records": [
+    {
+      "canonical_id": "SAR-0001",
+      "edition_links": [
+        {
+          "edition_id": "UTTANGI-1924",
+          "source_number": "",
+          "locator": "",
+          "text_status": "not_located"
+        },
+        {
+          "edition_id": "UTTANGI-1957",
+          "source_number": 1,
+          "locator": "",
+          "text_status": "ocr_only"
+        },
+        {
+          "edition_id": "WIKISOURCE-CURRENT",
+          "source_number": 1,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 1",
+          "text_status": "checked"
+        },
+        {
+          "edition_id": "PARAMARTHA-1980",
+          "source_number": "",
+          "locator": "",
+          "text_status": "not_located"
+        }
+      ],
+      "match_class": "unresolved",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "source_discovery"
+    },
+    {
+      "canonical_id": "SAR-0002",
+      "edition_links": [
+        {
+          "edition_id": "UTTANGI-1924",
+          "source_number": "",
+          "locator": "",
+          "text_status": "not_located"
+        },
+        {
+          "edition_id": "UTTANGI-1957",
+          "source_number": 2,
+          "locator": "",
+          "text_status": "ocr_only"
+        },
+        {
+          "edition_id": "WIKISOURCE-CURRENT",
+          "source_number": 2,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 2",
+          "text_status": "checked"
+        },
+        {
+          "edition_id": "PARAMARTHA-1980",
+          "source_number": "",
+          "locator": "",
+          "text_status": "not_located"
+        }
+      ],
+      "match_class": "unresolved",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "source_discovery"
+    },
+    {
+      "canonical_id": "SAR-0003",
+      "edition_links": [
+        {
+          "edition_id": "UTTANGI-1924",
+          "source_number": "",
+          "locator": "",
+          "text_status": "not_located"
+        },
+        {
+          "edition_id": "UTTANGI-1957",
+          "source_number": 3,
+          "locator": "",
+          "text_status": "ocr_only"
+        },
+        {
+          "edition_id": "WIKISOURCE-CURRENT",
+          "source_number": 3,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 3",
+          "text_status": "checked"
+        },
+        {
+          "edition_id": "PARAMARTHA-1980",
+          "source_number": "",
+          "locator": "",
+          "text_status": "not_located"
+        }
+      ],
+      "match_class": "unresolved",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "source_discovery"
+    },
+    {
+      "canonical_id": "SAR-0004",
+      "edition_links": [
+        {
+          "edition_id": "UTTANGI-1924",
+          "source_number": "",
+          "locator": "",
+          "text_status": "not_located"
+        },
+        {
+          "edition_id": "UTTANGI-1957",
+          "source_number": 4,
+          "locator": "",
+          "text_status": "ocr_only"
+        },
+        {
+          "edition_id": "WIKISOURCE-CURRENT",
+          "source_number": 4,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 4",
+          "text_status": "checked"
+        },
+        {
+          "edition_id": "PARAMARTHA-1980",
+          "source_number": "",
+          "locator": "",
+          "text_status": "not_located"
+        }
+      ],
+      "match_class": "unresolved",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "source_discovery"
+    },
+    {
+      "canonical_id": "SAR-0005",
+      "edition_links": [
+        {
+          "edition_id": "UTTANGI-1924",
+          "source_number": "",
+          "locator": "",
+          "text_status": "not_located"
+        },
+        {
+          "edition_id": "UTTANGI-1957",
+          "source_number": 5,
+          "locator": "",
+          "text_status": "ocr_only"
+        },
+        {
+          "edition_id": "WIKISOURCE-CURRENT",
+          "source_number": 5,
+          "locator": "ಜಾತಿಸ್ಮರಣ ಪದ್ದತಿ, 5",
+          "text_status": "checked"
+        },
+        {
+          "edition_id": "PARAMARTHA-1980",
+          "source_number": "",
+          "locator": "",
+          "text_status": "not_located"
+        }
+      ],
+      "match_class": "unresolved",
+      "canonical_text_status": "not_set",
+      "rights_status": "needs_review",
+      "editorial_status": "source_discovery"
+    }
+  ]
+}

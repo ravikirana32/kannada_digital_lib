@@ -1,0 +1,2 @@
+const fs=require("fs");const path=require("path");const {hashPassword}=require("./auth");
+(async()=>{const file=path.join(__dirname,"users.json");const d=JSON.parse(fs.readFileSync(file,"utf8"));const p=process.env.ADMIN_PASSWORD||"ChangeMe-Immediately";d.users[0].password_hash=await hashPassword(p);fs.writeFileSync(file,JSON.stringify(d,null,2));console.log("Admin password hash generated. Use ADMIN_PASSWORD and rotate immediately.");})();

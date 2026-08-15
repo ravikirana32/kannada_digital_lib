@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "phase": "5A",
+  "record": {
+    "canonical_id": "SAR-0001",
+    "author": "ಸರ್ವಜ್ಞ",
+    "source_evidence": [],
+    "canonical_text": {
+      "status": "pending",
+      "text": "",
+      "line_breaks": "tripadi_preserved"
+    },
+    "variants": [],
+    "authenticity": {
+      "status": "not_assessed",
+      "evidence": []
+    },
+    "bhavartha": {
+      "status": "blocked_until_canonical_text_approved",
+      "text": ""
+    },
+    "rights": {
+      "status": "needs_review",
+      "basis": [],
+      "notes": ""
+    },
+    "editorial": {
+      "status": "research",
+      "reviewer": "",
+      "review_notes": []
+    },
+    "publication": {
+      "approved": false,
+      "reason": "Canonical text, authenticity, and rights gates are not yet complete."
+    },
+    "social": {
+      "youtube_ready": false,
+      "reels_ready": false
+    }
+  }
+}

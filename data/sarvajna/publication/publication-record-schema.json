@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "required_for_publication": [
+    "canonical_text.status == approved",
+    "authenticity.status != not_assessed",
+    "rights.status == verified",
+    "editorial.status == approved",
+    "publication.approved == true"
+  ],
+  "outputs": [
+    "json",
+    "docx",
+    "pdf",
+    "epub",
+    "youtube_metadata",
+    "instagram_reel_metadata"
+  ]
+}

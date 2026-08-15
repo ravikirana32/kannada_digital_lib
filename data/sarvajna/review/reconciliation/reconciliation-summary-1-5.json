@@ -1,0 +1,37 @@
+[
+  {
+    "canonical_id": "SAR-0001",
+    "pairwise_class_counts": {
+      "major_or_different": 3
+    },
+    "decision": "unresolved"
+  },
+  {
+    "canonical_id": "SAR-0002",
+    "pairwise_class_counts": {
+      "major_or_different": 1
+    },
+    "decision": "unresolved"
+  },
+  {
+    "canonical_id": "SAR-0003",
+    "pairwise_class_counts": {
+      "major_or_different": 1
+    },
+    "decision": "unresolved"
+  },
+  {
+    "canonical_id": "SAR-0004",
+    "pairwise_class_counts": {
+      "major_or_different": 1
+    },
+    "decision": "unresolved"
+  },
+  {
+    "canonical_id": "SAR-0005",
+    "pairwise_class_counts": {
+      "major_or_different": 1
+    },
+    "decision": "unresolved"
+  }
+]

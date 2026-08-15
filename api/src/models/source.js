@@ -1,0 +1,1 @@
+const {DataTypes}=require("sequelize"); module.exports=(s)=>s.define("Source",{id:{type:DataTypes.UUID,defaultValue:DataTypes.UUIDV4,primaryKey:true},name:{type:DataTypes.STRING,allowNull:false},edition:DataTypes.STRING,url:DataTypes.TEXT,license:DataTypes.TEXT,provenance:DataTypes.TEXT},{tableName:"sources",underscored:true});

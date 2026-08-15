@@ -1,0 +1,28 @@
+{
+  "candidate_id": "CAND-XXXX",
+  "sources": [
+    {
+      "source_id": "",
+      "edition": "",
+      "locator": "",
+      "text": ""
+    },
+    {
+      "source_id": "",
+      "edition": "",
+      "locator": "",
+      "text": ""
+    }
+  ],
+  "comparison_result": "pending",
+  "variant_notes": [],
+  "canonical_candidate": "",
+  "decision": "pending",
+  "reviewer_note": "",
+  "gates": {
+    "historical": false,
+    "authenticity": false,
+    "rights": false,
+    "editorial": false
+  }
+}

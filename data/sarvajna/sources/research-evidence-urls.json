@@ -1,0 +1,35 @@
+{
+  "as_of": "2026-08-15",
+  "sources": [
+    {
+      "id": "WIKISOURCE-CORPUS",
+      "url": "https://kn.wikisource.org/wiki/ಸರ್ವಜ್ಞನ_ವಚನಗಳು",
+      "purpose": "current machine-readable corpus; page states CC BY-SA"
+    },
+    {
+      "id": "WIKISOURCE-UTTANGI-BIO",
+      "url": "https://kn.wikisource.org/wiki/ಮೈಸೂರು_ವಿಶ್ವವಿದ್ಯಾನಿಲಯ_ವಿಶ್ವಕೋಶ/ಚನ್ನಪ್ಪ,_ಉತ್ತಂಗಿ",
+      "purpose": "1924 edition history, 1915-1924 editing, later editions and government ownership"
+    },
+    {
+      "id": "ARCHIVE-1957",
+      "url": "https://archive.org/details/in.ernet.dli.2015.363853/mode/2up",
+      "purpose": "1957 historical scan/OCR reference"
+    },
+    {
+      "id": "SHASTRIYA-UTTANGI",
+      "url": "https://shastriyakannada.org/database/english/scholars/CHENNAPPA%20UTTANGI%20HTML.htm",
+      "purpose": "specialist biographical/edition evidence"
+    },
+    {
+      "id": "PARAMARTHA-REFERENCE",
+      "url": "https://www.exoticindiaart.com/book/details/sarvajna-old-book-nao790/",
+      "purpose": "secondary reference to critical-edition history; not a redistribution source"
+    },
+    {
+      "id": "SANCHAYA",
+      "url": "https://sarvajna.sanchaya.net/poems",
+      "purpose": "searchable digital discovery/reference source"
+    }
+  ]
+}

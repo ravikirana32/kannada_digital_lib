@@ -1,0 +1,22 @@
+{
+  "as_of": "2026-08-15",
+  "jurisdiction_focus": "India",
+  "sources": [
+    {
+      "source_id": "SRC-001",
+      "status": "reference_only",
+      "reason": "Archive metadata marks the 1957 item IN_COPYRIGHT."
+    },
+    {
+      "source_id": "SRC-002",
+      "status": "licensed_reference_candidate",
+      "reason": "Wikisource pages state CC BY-SA availability; attribution/share-alike obligations and underlying-source provenance must be preserved."
+    },
+    {
+      "source_id": "SRC-003",
+      "status": "candidate_public_domain",
+      "reason": "Official Copyright Office says general literary term is life + 60 years; Uttangi died in 1962. Legal/chain-of-title verification still required."
+    }
+  ],
+  "publication_policy": "Use a rights-cleared source for canonical text; keep other sources as references and document provenance."
+}
